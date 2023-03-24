@@ -8,15 +8,6 @@ Dada a diversidade e a liberdade dos sites de convênios, não existe uma resolu
 ## Problema
 Diante do cenário exposto, esse projeto tem por objetivo resolver o problema do paciente em marcar consultas e/ou exames de forma eficaz e prática, sem que haja erros, dada a variedade de convênios (incluindo o SUS), especialidades e exames disponíveis no mercado.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 Conforme exposto, o problema que se busca resolver com este projeto é o de facilitar o agendamento/realização de consultas e exames médicos via internet de forma inteligente, com agilidade e confiabilidade. 
@@ -26,27 +17,12 @@ Como objetivos específicos, pode-se ressaltar:
 
 •	Facilitar o agendamento de consultas online, pois o sistema estará disponível 24h/dia, não dependendo somente de agendamentos via telefone, que se limitam ao horário de funcionamento da instituição.
 
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
 Por ser um setor de grande demanda, principalmente do SUS, clínicas e hospitais muitas das vezes focam em apenas bater as metas das marcações em seus estabelecimentos, esquecendo-se muita das vezes da qualidade e de como será feita essa marcação. Em 90% dos casos, o próprio paciente procura o hospital/clínica e faz seu agendamento, porém, sem um padrão detalhado, acaba ocorrendo erros.
 
 "O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo."
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
 Por mais que saúde seja um tema relevante a toda população, este trabalho foca em pessoas que possuem o hábito de procurar serviços de saúde e utilizar seus sites, rotineiramente ou não, para cuidar do seu próprio bem-estar ou de dependentes.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
