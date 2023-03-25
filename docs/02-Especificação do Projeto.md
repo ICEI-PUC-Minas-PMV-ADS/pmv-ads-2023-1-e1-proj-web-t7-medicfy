@@ -49,7 +49,13 @@ teriam os seguintes interesses:
 
 |EU COMO...|QUERO/PRECISO ...|PARA ...|
 |-------------------------|-------------------------|-------------------------|
-|`DAYANE DUARTE`     |Marcar uma consulta com terapeuta de forma online.|Cuidar de sua saúde mental, pois no momento as frustrações do trabalho como carga horária alta e a falta de suporte da empresa desanimam Dayane, que não tem mais motivação para exercer sua profissão.|
+|`DAYANE DUARTE`|Marcar uma consulta com terapeuta de forma online.|Cuidar de sua saúde mental, pois no momento as frustrações do trabalho como carga horária alta e a falta de suporte da empresa desanimam Dayane, que não tem mais motivação para exercer sua profissão.|
+|`FELIPE MOREIRA`|Marcar uma consulta com ortopedista de forma online.|Realização de exames para acompanhar o estado de seu tornozelo e retirar o gesso de seu pé esquerdo, que torceu quando Felipe subiu uma trilha e se acidentou pisando em falso.|
+|`FRANCISCO ALVES`|Marcar uma consulta com endocrinologista e nutricionista de forma online.|Realização de exames para acompanhar o estado de sua doença com endocrinologista e avaliar sua alimentação com uma nutricionista para que possa se alimentar de forma mais saudável, afim de retardar a osteoporose.|
+|`SUZANE SALGADO`|Agendar consultas médicas para sua filha de dez anos.|Realizar o tratamento de sua filha que sofre de fibromialgia.|
+|`SUZANE SALGADO`|Visualizar o histórico de consultas e exames de sua filha.|Acompanhar a evolução do tratamento da doença de sua filha.|
+|`PEDRO NOGUEIRA`|Centralizar o agendamento de consultas com diversos especialistas, cardiologista, endocrinologia, etc. |Buscar tratamento para cuidar de sua saúde.|
+|`PEDRO NOGUEIRA`|Avaliar a experiência tida no site e/ou consulta médica.|Ajudar outros usuários que utilizarão o mesmo serviço.|
 
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
