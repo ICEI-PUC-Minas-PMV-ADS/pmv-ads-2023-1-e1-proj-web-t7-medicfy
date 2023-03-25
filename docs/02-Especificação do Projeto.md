@@ -4,7 +4,7 @@ Para tratar das demandas do projeto, foi feito uma pesquisa com usuários do web
 
 ## Personas
 
-|`DAYANE DUARTE`| ![alt text](/src/Dayane.jpg)|
+|Dayane Duarte| ![Persona Dayane](/src/Dayane.jpg)|
 |:-------------:|----------------|
 |**Idade**:|27 Anos|
 |**Ocupação**:| Contadora, trabalha dentro de uma empresa onde atua resolvendo tarefas econômicas e tributárias.|
@@ -13,7 +13,7 @@ Para tratar das demandas do projeto, foi feito uma pesquisa com usuários do web
 |**Hobbies, Histórias**:| Dayane gosta de descansar em seus momentos de lazer, assistir filmes, entrar em contato com a natureza.|
 
 
-|`FELIPE MOREIRA`| ![alt text](/src/Felipe.jpg)|
+|Felipe Moreira| ![Persona Felipe](/src/Felipe.jpg)|
 |:--------------:|----------------|
 |**Idade**:|31 Anos|
 |**Ocupação**:|  Professor de Educação Física, dando aulas em colégios do estado e de forma particular, em academias.|
@@ -22,16 +22,16 @@ Para tratar das demandas do projeto, foi feito uma pesquisa com usuários do web
 |**Hobbies, Histórias**:| Felipe nascido no Estado do Rio de Janeiro gosta de caminhar na praia, jogar beach tênis, fazer trilhas e participar de maratonas de corrida.|
 
 
-|`FRANCISCO ALVES`| ![alt text](/src/Francisco.jpg)|
+|Francisco Alves| ![Persona Francisco](/src/Francisco.jpg)|
 |:---------------:|----------------|
 |**Idade**:|67 Anos|
 |**Ocupação**:|  Aposentado do Estado, que passou a vida trabalhando como funcionário público.|
 |**Motivações**:| Francisco prioriza sua saúde fazendo caminhada todos os dias de manhã pelo parque, para que possa manter o corpo ativo e contribuir com o condicionamento físico.|
 |**Frustrações**:| Francisco sofre com osteoporose, doença que causa desgasto nos ossos causando dores no seu corpo. A atividade física ajuda no retardamento da doença, porém Francisco fica frustrado com a lista de alimentos que ele não pode consumir.|
-|**Hobbies, Histórias**:| Francisco passa o tempo livre assistindo novelas, filmes. Gosta de andar pelo ar livre e fazer atividades físicas.|
+|**Hobbies,  Histórias**:| Francisco passa o tempo livre assistindo novelas, filmes. Gosta de andar pelo ar livre e fazer atividades físicas.|
 
 
-|`SUZANE SALGADO`| ![alt text](/src/SuzaneSalgado.jpg)|
+|Suzane Salgado| ![Persona Suzane](/src/SuzaneSalgado.jpg)|
 |:--------------:|----------------|
 |**Idade**:|35 Anos|
 |**Ocupação**:|  Dona de casa e mãe de Mariana, divide tempo cuidando da casa e de sua filha de dez anos que sofre de fibromialgia.|
@@ -39,7 +39,7 @@ Para tratar das demandas do projeto, foi feito uma pesquisa com usuários do web
 |**Frustrações**:| Não haver cura para o caso de sua filha, mas faz tudo o que está ao seu alcance para confortá-la.|
 |**Hobbies, Histórias**:| Em seu tempo livre, gosta de assistir novelas, filmes e brincar com sua filha. Não mede esforços para deixá-la feliz.|
 
-|`PEDRO NOGUEIRA`| ![alt tedddxt](/src/Pedro.jpg)|
+|Pedro Nogueira| ![Persona Pedro](/src/Pedro.jpg)|
 |:--------------:|----------------|
 |**Idade**:|36 Anos|
 |**Ocupação**:|  Analista de sistemas em uma multinacional de grande porte no ramo securitário.|
