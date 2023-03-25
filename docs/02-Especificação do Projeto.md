@@ -1,26 +1,46 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Para tratar das demandas do projeto, foi feito uma pesquisa com usuários do website para que seja feito um levantamento das dificuldades encontradas e quais suas expectativas em relação ao trabalho em questão. Estão elencados abaixo as situações e expectativas individuais de cada usuário, que servirá de parâmetro para melhorias.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+|`DAYANE DUARTE` Idade: 27|
+|------------------------------|
+|**Ocupação**: Contadora, trabalha dentro de uma empresa onde atua resolvendo tarefas econômicas e tributárias.|
+|**Motivações**: Se sente feliz e motivada com suas atividades dentro da empresa, que contribui positivamente para seu desenvolvimento na profissão. Contabilidade sempre foi seu sonho de profissão e isso motiva Dayane diariamente.|
+|**Frustrações**: Lidar com burocracias e mudanças na legislação é a maior frustração de Dayane, além da grande carga de horários que deixam qualquer profissional sem motivações, principalmente quando a empresa não oferece o suporte necessário.|
+|**Hobbies, Histórias**: Dayane gosta de descansar em seus momentos de lazer, assistir filmes, entrar em contato com a natureza.|
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+|`FELIPE MOREIRA` Idade: 31|
+|------------------------------|
+|**Ocupação**:  Professor de Educação Física, dando aulas em colégios do estado e de forma particular, em academias.|
+|**Motivações**: Felipe desde sua infância praticava esportes, como natação e futebol. A paixão pelo esporte fez com que no futuro se tornasse Professor, pois sua motivação é praticar e ensinar o que ele mais gosta.|
+|**Frustrações**: Felipe se frusta quando não chega no resultado que almeja, desde não conseguir superar suas metas até quando um de seus alunos não bate a meta determinada ou não se ver interessado.|
+|**Hobbies, Histórias**: Felipe nascido no Estado do Rio de Janeiro gosta de caminhar na praia, jogar beach tênis, fazer trilhas e participar de maratonas de corrida.|
+
+
+|`FRANCISCO ALVES` Idade: 67|
+|------------------------------|
+|**Ocupação**:  Aposentado do Estado, que passou a vida trabalhando como funcionário público.|
+|**Motivações**: Francisco prioriza sua saúde fazendo caminhada todos os dias de manhã pelo parque, para que possa manter o corpo ativo e contribuir com o condicionamento físico.|
+|**Frustrações**: Francisco sofre com osteoporose, doença que causa desgasto nos ossos causando dores no seu corpo. A atividade física ajuda no retardamento da doença, porém Francisco fica frustrado com a lista de alimentos que ele não pode consumir.|
+|**Hobbies, Histórias**: Francisco passa o tempo livre assistindo novelas, filmes. Gosta de andar pelo ar livre e fazer atividades físicas.|
+
+
+|`SUZANE SALGADO` Idade: 35|
+|------------------------------|
+|**Ocupação**:  Dona de casa e mãe de Mariana, divide tempo cuidando da casa e de sua filha de dez anos que sofre de fibromialgia.|
+|**Motivações**: A saúde e o bem estar de sua filha são primordiais para Suzane.|
+|**Frustrações**: Não haver cura para o caso de sua filha, mas faz tudo o que está ao seu alcance para confortá-la.|
+|**Hobbies, Histórias**: Em seu tempo livre, gosta de assistir novelas, filmes e brincar com sua filha. Não mede esforços para deixá-la feliz.|
+
+|`PEDRO NOGUEIRA` Idade: 36|
+|------------------------------|
+|**Ocupação**:  Analista de sistemas em uma multinacional de grande porte no ramo securitário.|
+|**Motivações**: Amante de tecnologia, acha fantástico o que a tecnologia proporciona para a humanidade e está sempre em busca de aprendizado, participando de fóruns do assunto, realizando perguntas e sanando dúvidas de outros usuários quando é de seu conhecimento.|
+|**Frustrações**: Apesar de seu alto conhecimento na área de tecnologia e desempenho no trabalho, Pedro deseja ser promovido de cargo, porém, não se destaca, pois, seu chefe injustamente prioriza outros colegas por ter mais afinidade com os mesmos e menos com Pedro. Devido ao estresse da rotina que leva e a má alimentação, Pedro está hipertenso e com sobrepeso.|
+|**Hobbies, Histórias**: Em seu tempo livre, Pedro gosta de jogar vídeo game e ver filmes e séries de ficção.|
 
 ## Histórias de Usuários
 
