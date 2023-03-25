@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# MEDICFY
 
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
@@ -6,7 +6,7 @@
 
 `1° SEMESTRE (2023)`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Desenvolvimento de aplicação que facilite o agendamento/realização de consultas e exames médicos via internet de forma inteligente, com agilidade e confiabilidade
 
 ## Integrantes
 
