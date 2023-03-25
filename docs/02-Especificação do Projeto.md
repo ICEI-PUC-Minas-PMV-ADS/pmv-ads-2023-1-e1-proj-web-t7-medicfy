@@ -4,43 +4,48 @@ Para tratar das demandas do projeto, foi feito uma pesquisa com usuários do web
 
 ## Personas
 
-|`DAYANE DUARTE` Idade: 27|
-|------------------------------|
-|**Ocupação**: Contadora, trabalha dentro de uma empresa onde atua resolvendo tarefas econômicas e tributárias.|
-|**Motivações**: Se sente feliz e motivada com suas atividades dentro da empresa, que contribui positivamente para seu desenvolvimento na profissão. Contabilidade sempre foi seu sonho de profissão e isso motiva Dayane diariamente.|
-|**Frustrações**: Lidar com burocracias e mudanças na legislação é a maior frustração de Dayane, além da grande carga de horários que deixam qualquer profissional sem motivações, principalmente quando a empresa não oferece o suporte necessário.|
-|**Hobbies, Histórias**: Dayane gosta de descansar em seus momentos de lazer, assistir filmes, entrar em contato com a natureza.|
+|`DAYANE DUARTE`| ![alt text](/src/Dayane.jpg)|
+|:-------------:|----------------|
+|**Idade**:|27 Anos|
+|**Ocupação**:| Contadora, trabalha dentro de uma empresa onde atua resolvendo tarefas econômicas e tributárias.|
+|**Motivações**:| Se sente feliz e motivada com suas atividades dentro da empresa, que contribui positivamente para seu desenvolvimento na profissão. Contabilidade sempre foi seu sonho de profissão e isso motiva Dayane diariamente.|
+|**Frustrações**:| Lidar com burocracias e mudanças na legislação é a maior frustração de Dayane, além da grande carga de horários que deixam qualquer profissional sem motivações, principalmente quando a empresa não oferece o suporte necessário.|
+|**Hobbies, Histórias**:| Dayane gosta de descansar em seus momentos de lazer, assistir filmes, entrar em contato com a natureza.|
 
 
-|`FELIPE MOREIRA` Idade: 31|
-|------------------------------|
-|**Ocupação**:  Professor de Educação Física, dando aulas em colégios do estado e de forma particular, em academias.|
-|**Motivações**: Felipe desde sua infância praticava esportes, como natação e futebol. A paixão pelo esporte fez com que no futuro se tornasse Professor, pois sua motivação é praticar e ensinar o que ele mais gosta.|
-|**Frustrações**: Felipe se frusta quando não chega no resultado que almeja, desde não conseguir superar suas metas até quando um de seus alunos não bate a meta determinada ou não se ver interessado.|
-|**Hobbies, Histórias**: Felipe nascido no Estado do Rio de Janeiro gosta de caminhar na praia, jogar beach tênis, fazer trilhas e participar de maratonas de corrida.|
+|`FELIPE MOREIRA`| ![alt text](/src/Felipe.jpg)|
+|:--------------:|----------------|
+|**Idade**:|31 Anos|
+|**Ocupação**:|  Professor de Educação Física, dando aulas em colégios do estado e de forma particular, em academias.|
+|**Motivações**:| Felipe desde sua infância praticava esportes, como natação e futebol. A paixão pelo esporte fez com que no futuro se tornasse Professor, pois sua motivação é praticar e ensinar o que ele mais gosta.|
+|**Frustrações**:| Felipe se frusta quando não chega no resultado que almeja, desde não conseguir superar suas metas até quando um de seus alunos não bate a meta determinada ou não se ver interessado.|
+|**Hobbies, Histórias**:| Felipe nascido no Estado do Rio de Janeiro gosta de caminhar na praia, jogar beach tênis, fazer trilhas e participar de maratonas de corrida.|
 
 
-|`FRANCISCO ALVES` Idade: 67|
-|------------------------------|
-|**Ocupação**:  Aposentado do Estado, que passou a vida trabalhando como funcionário público.|
-|**Motivações**: Francisco prioriza sua saúde fazendo caminhada todos os dias de manhã pelo parque, para que possa manter o corpo ativo e contribuir com o condicionamento físico.|
-|**Frustrações**: Francisco sofre com osteoporose, doença que causa desgasto nos ossos causando dores no seu corpo. A atividade física ajuda no retardamento da doença, porém Francisco fica frustrado com a lista de alimentos que ele não pode consumir.|
-|**Hobbies, Histórias**: Francisco passa o tempo livre assistindo novelas, filmes. Gosta de andar pelo ar livre e fazer atividades físicas.|
+|`FRANCISCO ALVES`| ![alt text](/src/Francisco.jpg)|
+|:---------------:|----------------|
+|**Idade**:|67 Anos|
+|**Ocupação**:|  Aposentado do Estado, que passou a vida trabalhando como funcionário público.|
+|**Motivações**:| Francisco prioriza sua saúde fazendo caminhada todos os dias de manhã pelo parque, para que possa manter o corpo ativo e contribuir com o condicionamento físico.|
+|**Frustrações**:| Francisco sofre com osteoporose, doença que causa desgasto nos ossos causando dores no seu corpo. A atividade física ajuda no retardamento da doença, porém Francisco fica frustrado com a lista de alimentos que ele não pode consumir.|
+|**Hobbies, Histórias**:| Francisco passa o tempo livre assistindo novelas, filmes. Gosta de andar pelo ar livre e fazer atividades físicas.|
 
 
-|`SUZANE SALGADO` Idade: 35|
-|------------------------------|
-|**Ocupação**:  Dona de casa e mãe de Mariana, divide tempo cuidando da casa e de sua filha de dez anos que sofre de fibromialgia.|
-|**Motivações**: A saúde e o bem estar de sua filha são primordiais para Suzane.|
-|**Frustrações**: Não haver cura para o caso de sua filha, mas faz tudo o que está ao seu alcance para confortá-la.|
-|**Hobbies, Histórias**: Em seu tempo livre, gosta de assistir novelas, filmes e brincar com sua filha. Não mede esforços para deixá-la feliz.|
+|`SUZANE SALGADO`| ![alt text](/src/SuzaneSalgado.jpg)|
+|:--------------:|----------------|
+|**Idade**:|35 Anos|
+|**Ocupação**:|  Dona de casa e mãe de Mariana, divide tempo cuidando da casa e de sua filha de dez anos que sofre de fibromialgia.|
+|**Motivações**:| A saúde e o bem estar de sua filha são primordiais para Suzane.|
+|**Frustrações**:| Não haver cura para o caso de sua filha, mas faz tudo o que está ao seu alcance para confortá-la.|
+|**Hobbies, Histórias**:| Em seu tempo livre, gosta de assistir novelas, filmes e brincar com sua filha. Não mede esforços para deixá-la feliz.|
 
-|`PEDRO NOGUEIRA` Idade: 36|
-|------------------------------|
-|**Ocupação**:  Analista de sistemas em uma multinacional de grande porte no ramo securitário.|
-|**Motivações**: Amante de tecnologia, acha fantástico o que a tecnologia proporciona para a humanidade e está sempre em busca de aprendizado, participando de fóruns do assunto, realizando perguntas e sanando dúvidas de outros usuários quando é de seu conhecimento.|
-|**Frustrações**: Apesar de seu alto conhecimento na área de tecnologia e desempenho no trabalho, Pedro deseja ser promovido de cargo, porém, não se destaca, pois, seu chefe injustamente prioriza outros colegas por ter mais afinidade com os mesmos e menos com Pedro. Devido ao estresse da rotina que leva e a má alimentação, Pedro está hipertenso e com sobrepeso.|
-|**Hobbies, Histórias**: Em seu tempo livre, Pedro gosta de jogar vídeo game e ver filmes e séries de ficção.|
+|`PEDRO NOGUEIRA`| ![alt text](/src/Pedro.jpg)|
+|:--------------:|----------------|
+|**Idade**:|36 Anos|
+|**Ocupação**:|  Analista de sistemas em uma multinacional de grande porte no ramo securitário.|
+|**Motivações**:| Amante de tecnologia, acha fantástico o que a tecnologia proporciona para a humanidade e está sempre em busca de aprendizado, participando de fóruns do assunto, realizando perguntas e sanando dúvidas de outros usuários quando é de seu conhecimento.|
+|**Frustrações**:| Apesar de seu alto conhecimento na área de tecnologia e desempenho no trabalho, Pedro deseja ser promovido de cargo, porém, não se destaca, pois, seu chefe injustamente prioriza outros colegas por ter mais afinidade com os mesmos e menos com Pedro. Devido ao estresse da rotina que leva e a má alimentação, Pedro está hipertenso e com sobrepeso.|
+|**Hobbies, Histórias**:| Em seu tempo livre, Pedro gosta de jogar vídeo game e ver filmes e séries de ficção.|
 
 ## Histórias de Usuários
 
