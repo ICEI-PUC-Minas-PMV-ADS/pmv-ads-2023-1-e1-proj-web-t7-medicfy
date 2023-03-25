@@ -88,7 +88,7 @@ A seguir, estão apresentados os requisitos não funcionais que o projeto dever�
 |**RNF_04**| O site deverá conter principais notícias sobre saúde e bem-estar (sobre exames preventivos, riscos de doenças, etc.) | MÉDIA |
 |**RNF_05**| O site deverá ter um tempo de resposta menor que 2 segundos na pesquisa e agendamento de consultas | ALTA |
 
-## Restrições
+### Restrições
 
 Os itens que limitarão a execução desse projeto de acordo com a proposta inicial. 
 
