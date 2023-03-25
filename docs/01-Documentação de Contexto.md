@@ -12,7 +12,7 @@ Diante do cenário exposto, o problema que este projeto visa resolver é, a falt
 
 ## Objetivos
 
-Conforme exposto, o pbjetivo deste projeto é, desenvolver uma aplicação que facilite o agendamento/realização de consultas e exames médicos via internet de forma inteligente, com agilidade e confiabilidade. 
+Conforme exposto, o objetivo deste projeto é, desenvolver uma aplicação que facilite o agendamento/realização de consultas e exames médicos via internet de forma inteligente, com agilidade e confiabilidade. 
 
 Como objetivos específicos, pode-se ressaltar:
 
