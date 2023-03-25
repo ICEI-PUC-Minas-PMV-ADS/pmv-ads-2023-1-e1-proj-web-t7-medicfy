@@ -39,7 +39,7 @@ Para tratar das demandas do projeto, foi feito uma pesquisa com usuários do web
 |**Frustrações**:| Não haver cura para o caso de sua filha, mas faz tudo o que está ao seu alcance para confortá-la.|
 |**Hobbies, Histórias**:| Em seu tempo livre, gosta de assistir novelas, filmes e brincar com sua filha. Não mede esforços para deixá-la feliz.|
 
-|`PEDRO NOGUEIRA`| ![alt text](/src/Pedro.jpg)|
+|`PEDRO NOGUEIRA`| ![alt tedddxt](/src/Pedro.jpg)|
 |:--------------:|----------------|
 |**Idade**:|36 Anos|
 |**Ocupação**:|  Analista de sistemas em uma multinacional de grande porte no ramo securitário.|
