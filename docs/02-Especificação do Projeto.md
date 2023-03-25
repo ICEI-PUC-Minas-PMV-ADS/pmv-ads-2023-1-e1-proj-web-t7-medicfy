@@ -44,11 +44,13 @@ Para tratar das demandas do projeto, foi feito uma pesquisa com usuários do web
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da pesquisa realizada, constatou-se que no dia a dia, os usuários entrevistados
+teriam os seguintes interesses:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|EU COMO...|QUERO/PRECISO ...|PARA ...|
+|-------------------------|-------------------------|-------------------------|
+|`DAYANE DUARTE`     |Marcar uma consulta com terapeuta de forma online.|Cuidar de sua saúde mental, pois no momento as frustrações do trabalho como carga horária alta e a falta de suporte da empresa desanimam Dayane, que não tem mais motivação para exercer sua profissão.|
+
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
