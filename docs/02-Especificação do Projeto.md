@@ -59,24 +59,25 @@ A seguir serão apresentados os requisitos do projeto de acordo com os feedbacks
 
 | ID | DESCRIÇÃO DO REQUISITO | PRIORIDADE |
 |:---:|---|:---:|
-|**RF01**|O website permitirá que o usuário insira/altere informações de login| ALTA | 
-|**RF02**|O website permitirá que o usuário marque e desmarque consultas/exames de forma eficaz com no mínimo 3 horas de antecedência | ALTA |
-|**RF03**|O website permitirá que o usuário faça avaliações sobre a experiência no site| MÉDIA |
-|**RF04**|O website enviará comprovante ao e-mail e telefone celular do usuário com data, nome do médico/exame, horário e telefone de contato na clínica | ALTA |
-|**RF05**|O website deverá informar o histórico de consultas ao usuário| MÉDIA |
-|**RF06**|O website deverá conter principais notícias sobre saúde e bem-estar (sobre exames preventivos, riscos de doenças, etc.) | MÉDIA |
-
-# Abaixo mais algumas idéias de requisitos... caso não concordem removo da lista
-
->**RF07** O website deve realizar o controle de acesso, solicitando login e senha
-
->**RF08** O website deverá permitir que o usuário se registre caso não possua cadastro no sistema. ALTA
-
->**RF09** O website deverá permitir a alterações de dados cadastrais do usuário. MÉDIA
-
->**RF10** O sistema deverá validar se o login do usuário contém caracteres alfanuméricos, permitindo apenas letras e números, hífen (-) ou sublinhado (_).
-
->**RF11** O sistema deverá validar se a senha do usuário contém no mínimo 6 caracteres no ato do cadastro.
+|**RF01**|O website deve realizar o controle de acesso, solicitando login e senha| ALTA |
+|**RF02**|O website deverá permitir que o usuário se registre caso não possua cadastro no sistema| ALTA |
+|**RF03**|O website deverá permitir que o usuario recupere login e senha caso o tenha perdido| ALTA |
+|**RF04**|O website deverá permitir a alterações de dados cadastrais do usuário |MÉDIA|
+|**RF05**|O sistema deverá validar se o login do usuário contém caracteres alfanuméricos, permitindo apenas letras e números, *hífen "-" ou sublinhado "_"* | ALTA |
+|**RF06**|O sistema deverá validar se a senha do usuário contém no mínimo 6 caracteres no ato do cadastro. | ALTA |
+|**RF07**|O sistema deverá permitir que apenas maiores de 18 anos se cadastre no site, caso seja de menor, o cadastro deverá ser realizado por um responsável. | ALTA |
+|**RF08**|O website deverá permitir o agendamento de exames/consultas para terceiros apenas para menores de 18 anos e dependentes do titular da conta. | MÉDIA |
+|**RF10**|O usuário deverá informar para quem será o atendimento, para si próprio, ou para um de seus dependentes. | MÉDIA |
+|**RF11**|O cadastro do usuário só será efetivado após informar obrigatóriamente nome completo, data de nascimento, cpf, e-mail, telefone celular e endereço. | ALTA |
+|**RF12**|O site deverá conter campos de preenchimento para escolha do usuário do plano de saúde, o exame ou consulta, o local, a especialidade/exame, o dia e o horário. | MÉDIA |
+|**RF13**|O website deverá permitir que o usuário marque e desmarque consultas/exames de forma eficaz com no mínimo 3 horas de antecedência | ALTA |
+|**RF14**|O website deverá permitir que o usuário faça avaliações sobre a experiência no site| MÉDIA |
+|**RF15**|O website deverá enviar comprovante ao e-mail e telefone celular do usuário com data, nome do médico/exame, horário e telefone de contato na clínica | ALTA |
+|**RF16**|O website deverá informar o histórico de consultas ao usuário| MÉDIA |
+|**RF17**|O website deverá conter principais notícias sobre saúde e bem-estar (sobre exames preventivos, riscos de doenças, etc.) | MÉDIA |
+|**RF18**|O website terá um admnistrador que fará login com usuário e senha | MÉDIA |
+|**RF19**|A manutenção das especialidades, exames, locais, planos aceitos pelo site será feita pelo administrador | MÉDIA |
+|**RF20**|O website deverá permitir que o administrador retire um relatório de seus usuários e poderá excluir o usuário que não faz login há mais de 2 anos | MÉDIA |
 
 ### Requisitos não Funcionais
 
@@ -88,13 +89,9 @@ A seguir, estão apresentados os requisitos não funcionais que o projeto dever�
 |**RNF02**| O website deverá conter cores suaves e de bom contraste com demais elementos da página | MÉDIA |
 |**RNF03**| O website deverá conter formatação de fontes formais e de fácil leitura | MÉDIA |
 |**RNF04**| O website deverá ter um tempo de resposta menor que 2 segundos na pesquisa e agendamento de consultas | ALTA |
-
-# Abaixo mais algumas idéias de requisitos... caso não concordem removo da lista
->**RNF05** O website deverá ser responsivo, permitindo a vizualização em computadores e dispositivos móveis. MÉDIA
-
->**RNF06** O website deve ser publicado em uma plataforma acessível publicamente na Internet (GitHub). ALTA
-
->**RNF07** O website deverá ser compatível com a maioria dos Browsers disponíveis no mercado (Safari, Google Chrome, Mozilla Firefox, etc.). MÉDIA
+|**RNF05**| O website deverá ser responsivo, permitindo a vizualização em computadores e dispositivos móveis. |MÉDIA|
+|**RNF06**| O website deve ser publicado em uma plataforma acessível publicamente na Internet (GitHub). |ALTA|
+|**RNF07**| O website deverá ser compatível com a maioria dos Browsers disponíveis no mercado (Safari, Google Chrome, Mozilla Firefox, etc.). |MÉDIA|
 
 ### Restrições
 
