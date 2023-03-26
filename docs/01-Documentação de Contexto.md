@@ -30,4 +30,4 @@ Por ser um setor de grande demanda, principalmente do SUS, clínicas e hospitais
 ## Público-Alvo
 
 Por mais que saúde seja um tema relevante a toda população, este trabalho foca em pessoas que possuem o hábito de procurar serviços de saúde e utilizar seus sites, rotineiramente ou não, para cuidar do seu próprio bem-estar ou de dependentes.
-Portanto, o público-alvo deste projeto são pessoas conveniadas ou que utlizam o Sistema Unico de Saúde.
+Portanto, o público-alvo deste projeto são pessoas conveniadas ou que utlizam o Sistema Único de Saúde.
