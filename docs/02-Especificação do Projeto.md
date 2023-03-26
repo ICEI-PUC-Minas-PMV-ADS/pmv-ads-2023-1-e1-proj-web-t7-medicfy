@@ -59,11 +59,20 @@ A seguir serão apresentados os requisitos do projeto de acordo com os feedbacks
 
 | ID | DESCRIÇÃO DO REQUISITO | PRIORIDADE |
 |:---:|---|:---:|
-|**RF01**  |O website permitirá que o usuário insira/altere informações de login| ALTA | 
-|**RF02**  |O website permitirá que o usuário marque e desmarque consultas/exames de forma eficaz com no mínimo 3 horas de antecedência | ALTA |
-|**RF03**  |O website permitirá que o usuário faça avaliações sobre a experiência no site| MÉDIA |
-|**RF04** |O website enviará comprovante ao e-mail e telefone celular do usuário com data, nome do médico/exame, horário e telefone de contato na clínica | ALTA |
-|**RF05**  |O website deverá informar o histórico de consultas ao usuário| MÉDIA |
+|**RF01**|O website permitirá que o usuário insira/altere informações de login| ALTA | 
+|**RF02**|O website permitirá que o usuário marque e desmarque consultas/exames de forma eficaz com no mínimo 3 horas de antecedência | ALTA |
+|**RF03**|O website permitirá que o usuário faça avaliações sobre a experiência no site| MÉDIA |
+|**RF04**|O website enviará comprovante ao e-mail e telefone celular do usuário com data, nome do médico/exame, horário e telefone de contato na clínica | ALTA |
+|**RF05**|O website deverá informar o histórico de consultas ao usuário| MÉDIA |
+|**RF06**|O website deverá conter principais notícias sobre saúde e bem-estar (sobre exames preventivos, riscos de doenças, etc.) | MÉDIA |
+
+# Abaixo mais algumas idéias de requisitos... caso não concordem removo da lista
+
+>**RF07** O website deve realizar o controle de acesso, solicitando login e senha
+
+>**RF08** O website deverá permitir que o usuário se registre caso não possua cadastro no sistema. ALTA
+
+>**RF09** O website deverá permitir a alterações de dados cadastrais do usuário. MÉDIA
 
 ### Requisitos não Funcionais
 
@@ -71,11 +80,17 @@ A seguir, estão apresentados os requisitos não funcionais que o projeto dever�
 
 | ID | DESCRIÇÃO DO REQUISITO | PRIORIDADE |
 |:-------:|-------------------------|:-----------:|
-|**RNF01**| O site deverá ser claro e objetivo, de fácil utilização ao usuário | ALTA | 
-|**RNF02**| O site deverá conter cores suaves e de bom contraste com demais elementos da página | MÉDIA |
-|**RNF03**| O site deverá conter formatação de fontes formais e de fácil leitura | MÉDIA |
-|**RNF04**| O site deverá conter principais notícias sobre saúde e bem-estar (sobre exames preventivos, riscos de doenças, etc.) | MÉDIA |
-|**RNF05**| O site deverá ter um tempo de resposta menor que 2 segundos na pesquisa e agendamento de consultas | ALTA |
+|**RNF01**| O website deverá ser claro e objetivo, de fácil utilização ao usuário | ALTA | 
+|**RNF02**| O website deverá conter cores suaves e de bom contraste com demais elementos da página | MÉDIA |
+|**RNF03**| O website deverá conter formatação de fontes formais e de fácil leitura | MÉDIA |
+|**RNF04**| O website deverá ter um tempo de resposta menor que 2 segundos na pesquisa e agendamento de consultas | ALTA |
+
+# Abaixo mais algumas idéias de requisitos... caso não concordem removo da lista
+>**RNF05** O website deverá ser responsivo, permitindo a vizualização em computadores e dispositivos móveis. MÉDIA
+
+>**RNF06** O website deve ser publicado em uma plataforma acessível publicamente na Internet (GitHub). ALTA
+
+>**RNF07** O website deverá ser compatível com a maioria dos Browsers disponíveis no mercado (Safari, Google Chrome, Mozilla Firefox, etc.). MÉDIA
 
 ### Restrições
 
