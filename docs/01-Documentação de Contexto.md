@@ -26,8 +26,6 @@ Como objetivos específicos, pode-se ressaltar:
 
 Por ser um setor de grande demanda, principalmente do SUS, clínicas e hospitais muitas das vezes focam em apenas bater as metas das marcações em seus estabelecimentos, esquecendo-se muita das vezes da qualidade e de como será feita essa marcação. Em 90% dos casos, o próprio paciente procura o hospital/clínica e faz seu agendamento, porém, sem um padrão detalhado, acaba ocorrendo erros.
 
-"O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo."
-
 ## Público-Alvo
 
 Por mais que saúde seja um tema relevante a toda população, este trabalho foca em pessoas que possuem o hábito de procurar serviços de saúde e utilizar seus sites, rotineiramente ou não, para cuidar do seu próprio bem-estar ou de dependentes.
