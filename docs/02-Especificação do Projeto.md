@@ -74,6 +74,10 @@ A seguir serão apresentados os requisitos do projeto de acordo com os feedbacks
 
 >**RF09** O website deverá permitir a alterações de dados cadastrais do usuário. MÉDIA
 
+>**RF10** O sistema deverá validar se o login do usuário contém caracteres alfanuméricos, permitindo apenas letras e números, hífen (-) ou sublinhado (_).
+
+>**RF11** O sistema deverá validar se a senha do usuário contém no mínimo 6 caracteres no ato do cadastro.
+
 ### Requisitos não Funcionais
 
 A seguir, estão apresentados os requisitos não funcionais que o projeto deverá atender
