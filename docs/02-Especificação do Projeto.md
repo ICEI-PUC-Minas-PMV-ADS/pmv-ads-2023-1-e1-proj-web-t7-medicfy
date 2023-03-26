@@ -69,7 +69,7 @@ A seguir serão apresentados os requisitos do projeto de acordo com os feedbacks
 |**RF08**|O website deverá permitir o agendamento de exames/consultas para terceiros apenas para menores de 18 anos e dependentes do titular da conta. | MÉDIA |
 |**RF10**|O usuário deverá informar para quem será o atendimento, para si próprio, ou para um de seus dependentes. | ALTA |
 |**RF11**|O cadastro do usuário só será efetivado após informar obrigatóriamente nome completo, data de nascimento, cpf, e-mail, telefone celular e endereço. | ALTA |
-|**RF12**|O site deverá conter campos de preenchimento para escolha do usuário do plano de saúde, o exame ou consulta, o local, a especialidade/exame, o dia e o horário. | ALTA |
+|**RF12**|O site deverá conter campos de preenchimento para escolha do usuário do plano de saúde com o número da carteira, o exame ou consulta, o local, a especialidade/exame, o dia e o horário. | ALTA |
 |**RF13**|O website deverá permitir que o usuário marque e desmarque consultas/exames de forma eficaz com no mínimo 3 horas de antecedência | ALTA |
 |**RF14**|O website deverá permitir que o usuário faça avaliações sobre a experiência no site| MÉDIA |
 |**RF15**|O website deverá enviar comprovante ao e-mail e telefone celular do usuário com data, nome do médico/exame, horário e telefone de contato na clínica | ALTA |
