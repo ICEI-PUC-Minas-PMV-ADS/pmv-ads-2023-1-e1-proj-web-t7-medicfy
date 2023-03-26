@@ -67,16 +67,16 @@ A seguir serão apresentados os requisitos do projeto de acordo com os feedbacks
 |**RF06**|O sistema deverá validar se a senha do usuário contém no mínimo 6 caracteres no ato do cadastro. | ALTA |
 |**RF07**|O sistema deverá permitir que apenas maiores de 18 anos se cadastre no site, caso seja de menor, o cadastro deverá ser realizado por um responsável. | ALTA |
 |**RF08**|O website deverá permitir o agendamento de exames/consultas para terceiros apenas para menores de 18 anos e dependentes do titular da conta. | MÉDIA |
-|**RF10**|O usuário deverá informar para quem será o atendimento, para si próprio, ou para um de seus dependentes. | MÉDIA |
+|**RF10**|O usuário deverá informar para quem será o atendimento, para si próprio, ou para um de seus dependentes. | ALTA |
 |**RF11**|O cadastro do usuário só será efetivado após informar obrigatóriamente nome completo, data de nascimento, cpf, e-mail, telefone celular e endereço. | ALTA |
-|**RF12**|O site deverá conter campos de preenchimento para escolha do usuário do plano de saúde, o exame ou consulta, o local, a especialidade/exame, o dia e o horário. | MÉDIA |
+|**RF12**|O site deverá conter campos de preenchimento para escolha do usuário do plano de saúde, o exame ou consulta, o local, a especialidade/exame, o dia e o horário. | ALTA |
 |**RF13**|O website deverá permitir que o usuário marque e desmarque consultas/exames de forma eficaz com no mínimo 3 horas de antecedência | ALTA |
 |**RF14**|O website deverá permitir que o usuário faça avaliações sobre a experiência no site| MÉDIA |
 |**RF15**|O website deverá enviar comprovante ao e-mail e telefone celular do usuário com data, nome do médico/exame, horário e telefone de contato na clínica | ALTA |
 |**RF16**|O website deverá informar o histórico de consultas ao usuário| MÉDIA |
 |**RF17**|O website deverá conter principais notícias sobre saúde e bem-estar (sobre exames preventivos, riscos de doenças, etc.) | MÉDIA |
-|**RF18**|O website terá um admnistrador que fará login com usuário e senha | MÉDIA |
-|**RF19**|A manutenção das especialidades, exames, locais, planos aceitos pelo site será feita pelo administrador | MÉDIA |
+|**RF18**|O website terá um admnistrador que fará login com usuário e senha | ALTA |
+|**RF19**|A manutenção das especialidades, exames, locais, planos aceitos pelo site será feita pelo administrador | ALTA |
 |**RF20**|O website deverá permitir que o administrador retire um relatório de seus usuários e poderá excluir o usuário que não faz login há mais de 2 anos | MÉDIA |
 
 ### Requisitos não Funcionais
