@@ -72,7 +72,7 @@ A seguir serão apresentados os requisitos do projeto de acordo com os feedbacks
 |**RF11**|O site deverá conter campos de preenchimento para escolha do usuário do plano de saúde com o número da carteira, o exame ou consulta, o local, a especialidade/exame, o dia e o horário. | ALTA |
 |**RF12**|O website deverá permitir que o usuário marque e desmarque consultas/exames de forma eficaz com no mínimo 3 horas de antecedência | ALTA |
 |**RF13**|O website deverá permitir que o usuário faça avaliações sobre a experiência no site| MÉDIA |
-|**RF14**|O website deverá enviar comprovante ao e-mail e telefone celular do usuário com data, nome do médico/exame, horário e telefone de contato na clínica | ALTA |
+|**RF14**|O website deverá enviar comprovante ao e-mail e telefone celular do usuário com data, nome do médico/exame, horário, dcoumentos que deverá portar e telefone de contato na clínica | ALTA |
 |**RF15**|O website deverá informar o histórico de consultas ao usuário| MÉDIA |
 |**RF16**|O website deverá conter principais notícias sobre saúde e bem-estar (sobre exames preventivos, riscos de doenças, etc.) | MÉDIA |
 |**RF17**|O website terá um admnistrador que fará login com usuário e senha | ALTA |
