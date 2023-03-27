@@ -21,7 +21,8 @@ Como objetivos específicos, pode-se ressaltar:
 
 *	Facilitar o agendamento de consultas online, pois o sistema estará disponível 24h/dia, não dependendo somente de agendamentos via telefone, que se limitam ao horário de funcionamento da instituição;
 *	Reduzir o tempo de agendamento da consulta e/ou exame;
-*	Reduzir o fluxo de pessoas que se dirigem as clínicas e hospitais para agendar consultas.
+*	Reduzir o fluxo de pessoas que se dirigem as clínicas e hospitais para agendar consultas;
+*	Reduzir o tempo de espera no atendimento presencial, uma vez que já terá uma parte significativa do cadastro realizado;
 
 ## Justificativa
 
