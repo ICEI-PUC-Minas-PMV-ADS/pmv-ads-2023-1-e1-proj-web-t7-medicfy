@@ -20,8 +20,7 @@ Como objetivos específicos, pode-se ressaltar:
 *	Disponibilizar detalhadamente para o paciente, de forma padronizada, tipos de exames realizados, detalhes sobre convênios aceitos e especialidades médicas;
 
 *	Facilitar o agendamento de consultas online, pois o sistema estará disponível 24h/dia, não dependendo somente de agendamentos via telefone, que se limitam ao horário de funcionamento da instituição;
-*	Reduzir o tempo de agendamento/atendimento da consulta e/ou exame;
-*	Agilizar as entregas ou realização de exames/consultas.
+*	Reduzir o tempo de agendamento da consulta e/ou exame;
 
 ## Justificativa
 
