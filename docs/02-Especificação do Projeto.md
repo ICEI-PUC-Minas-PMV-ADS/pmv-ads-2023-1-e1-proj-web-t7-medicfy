@@ -78,6 +78,8 @@ A seguir serão apresentados os requisitos do projeto de acordo com os feedbacks
 |**RF17**|O website terá um admnistrador que fará login com usuário e senha | ALTA |
 |**RF18**|A manutenção das especialidades, exames, locais, planos aceitos pelo site será feita pelo administrador | ALTA |
 |**RF19**|O website deverá permitir que o administrador retire um relatório de seus usuários e poderá excluir o usuário que não faz login há mais de 2 anos | MÉDIA |
+|**RF20**|O site deve conter campos de preenchimento para escolha do usuário se o atendimento será particular, SUS, ou pelo plano de saúde | ALTA |
+|**RF21**|Ao declarar uma forma de agendamento particular, o sistema deve enviar uma mensagem contendo os valores dos procedimentos, forma de pagamento, e que o mesmo será realizado durante a prestação do serviço. | ALTA |
 
 ### Requisitos não Funcionais
 
