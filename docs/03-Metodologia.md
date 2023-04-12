@@ -41,19 +41,19 @@ A equipe está organizada da seguinte maneira:
 
 A equipe está empregando o Trello para estruturar e distribuir as tarefas do projeto, utilizando as seguintes listas como base.
 
-●	Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+**Backlog**: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
 
-●	To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+**To Do**: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
 
-●	Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+**Doing**: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
 
-●	Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+**Done**: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- IDE - Visual Studio Code.
+- **IDE** Visual Studio Code.
 - Plataforma Teams para encontros on-line.
 - Ferramentas de desenho de tela (_wireframing_)
 
