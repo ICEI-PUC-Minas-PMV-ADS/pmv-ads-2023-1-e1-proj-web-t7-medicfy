@@ -23,6 +23,13 @@ O projeto segue a seguinte convenção para o nome de branches:
 - `testing`: versão em testes do software
 - `dev`: versão de desenvolvimento do software
 
+Quanto à gerência de issues, o projeto adota a seguinte convenção para etiquetas:
+
+documentation: melhorias ou acréscimos à documentação
+bug: uma funcionalidade encontra-se com problemas
+enhancement: uma funcionalidade precisa ser melhorada
+feature: uma nova funcionalidade precisa ser introduzida
+
 ## Gerenciamento do Projeto
 
 ### Divisão dos Papéis
@@ -55,7 +62,7 @@ O quadro Kanban utilizado pela equipe, foi criado utilizando a plataforma Trello
 
 As ferramentas empregadas no projeto são:
 
-- **IDE** Visual Studio Code.
+- IDE - A Definir.
 - Plataforma Teams para encontros on-line.
 - Ferramentas de desenho de tela (_wireframing_)
 
