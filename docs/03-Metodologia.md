@@ -25,10 +25,10 @@ O projeto segue a seguinte convenção para o nome de branches:
 
 Quanto à gerência de issues, o projeto adota a seguinte convenção para etiquetas:
 
-documentation: melhorias ou acréscimos à documentação
-bug: uma funcionalidade encontra-se com problemas
-enhancement: uma funcionalidade precisa ser melhorada
-feature: uma nova funcionalidade precisa ser introduzida
+- `documentation`: melhorias ou acréscimos à documentação
+- `bug`: uma funcionalidade encontra-se com problemas
+- `enhancement`: uma funcionalidade precisa ser melhorada
+- `feature`: uma nova funcionalidade precisa ser introduzida
 
 ## Gerenciamento do Projeto
 
