@@ -49,6 +49,8 @@ A equipe está empregando o Trello para estruturar e distribuir as tarefas do pr
 
 **Done**: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
+O quadro Kanban utilizado pela equipe, foi criado utilizando a plataforma Trello, onde  pode ser acompanhado [clique aqui](https://trello.com/b/zNTnzy6k/kanban-medicfy)
+
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
