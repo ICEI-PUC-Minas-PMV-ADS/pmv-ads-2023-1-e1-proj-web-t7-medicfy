@@ -5,10 +5,10 @@
 
 | Ambiente | Plataforma | Link de Acesso |
 |----------|----------|----------|
-| Repositório de Código Fonte | GitHub |  |
-| Documentos do Projeto | GitHub |  |
-| Projeto de Interface e Wireframes | MarvelApp |  |
-| Gerenciamento do Projeto | Trello |  |
+| Repositório de Código Fonte | GitHub | [Repositório](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy) |
+| Documentos do Projeto | GitHub | [Documento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/projects?query=is%3Aopen) |
+| Projeto de Interface e Wireframes | MarvelApp | [Wireframes](https://marvelapp.com/prototype/bf3e02b/screen/91254587/handoff) |
+| Gerenciamento do Projeto | Trello | [Board](https://trello.com/invite/medicfy1/ATTI474d53845707099bf6503094925146c8BC6BF297) |
 
 ## Controle de Versão Git
 
@@ -56,7 +56,10 @@ A equipe está empregando o Trello para estruturar e distribuir as tarefas do pr
 
 **Done**: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
-O quadro Kanban utilizado pela equipe, foi criado utilizando a plataforma Trello, onde  pode ser acompanhado [clique aqui](https://trello.com/b/zNTnzy6k/kanban-medicfy)
+O quadro Kanban utilizado pela equipe, foi criado utilizando a plataforma Trello, onde  pode ser acompanhado [clicando aqui](https://trello.com/b/zNTnzy6k/kanban-medicfy)
+
+
+<img width="960" alt="QuadroKanban" src="https://user-images.githubusercontent.com/129125620/232237566-2d62c361-2063-4793-9b2f-ce02f84d3137.png">
 
 ### Ferramentas
 
