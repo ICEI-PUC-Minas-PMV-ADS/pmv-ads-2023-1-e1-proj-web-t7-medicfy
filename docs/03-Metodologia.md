@@ -1,7 +1,7 @@
 
 # Metodologia
 
-A metodologia adotada pela equipe contempla as definições de ferramental utilizado tanto para a manutenção dos códigos e demais artefatos quanto para a organização do time na execução das tarefas do projeto. Essas ferramentas são essenciais para o sucesso do projeto e permitem à equipe de desenvolvimento trabalhar de forma mais eficiente e colaborativa.
+A metodologia adotada pela equipe contempla as definições de ferramental utilizado tanto para a manutenção dos códigos e demais artefatos quanto para a organização do time na execução das tarefas do projeto. Essas ferramentas são essenciais para o sucesso do projeto e permitem à equipe trabalhar de forma mais eficiente e colaborativa.
 
 ## Relações de Ambientes de Trabalho
 
