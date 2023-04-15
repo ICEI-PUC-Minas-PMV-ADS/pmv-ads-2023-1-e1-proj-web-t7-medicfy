@@ -1,6 +1,8 @@
 
 # Metodologia
 
+A metodologia adotada pela equipe contempla as definições de ferramental utilizado tanto para a manutenção dos códigos e demais artefatos quanto para a organização do time na execução das tarefas do projeto. Essas ferramentas são essenciais para o sucesso do projeto e permitem à equipe de desenvolvimento trabalhar de forma mais eficiente e colaborativa.
+
 ## Relações de Ambientes de Trabalho
 
 | Ambiente | Plataforma | Link de Acesso |
@@ -48,13 +50,13 @@ A equipe está organizada da seguinte maneira:
 
 A equipe está empregando o Trello para estruturar e distribuir as tarefas do projeto, utilizando as seguintes listas como base.
 
-**Backlog**: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+- **Backlog**: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
 
-**To Do**: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+- **To Do**: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
 
-**Doing**: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+- **Doing**: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
 
-**Done**: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+- **Done**: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 O quadro Kanban utilizado pela equipe, foi criado utilizando a plataforma Trello, onde  pode ser acompanhado [clicando aqui](https://trello.com/b/zNTnzy6k/kanban-medicfy)
 
