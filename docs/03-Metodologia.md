@@ -9,7 +9,7 @@ A metodologia adotada pela equipe contempla as definições de ferramental utili
 |----------|----------|----------|
 | Repositório de Código Fonte | GitHub | [Repositório](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy) |
 | Documentos do Projeto | GitHub | [Documento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/projects?query=is%3Aopen) |
-| Projeto de Interface e Wireframes | MarvelApp | [Wireframes](https://marvelapp.com/prototype/bf3e02b/screen/91254587/handoff) |
+| Projeto de Interface e Wireframes | Figma | [Wireframes](https://www.figma.com/file/8BoYp5FtRCAKBybbGInc7m/Untitled?node-id=0-1&t=MSAKuc99cSte4A2u-0) |
 | Gerenciamento do Projeto | Trello | [Board](https://trello.com/invite/medicfy1/ATTI474d53845707099bf6503094925146c8BC6BF297) |
 
 ## Controle de Versão Git
