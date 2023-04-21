@@ -3,16 +3,11 @@
 
 Dentre um dos cuidados para a criação do sistema de interface, centramos a atenção em uma navegação inteligente, ágil e confiável. Para uma melhor visualização da identidade do projeto, estebelecemos um padrão das telas que foram pensadas para funcionar em dispositivos desktop e mobile. 
 
-## User Flow
+## Fluxo do Usuário
+
+O esquema da figura X abaixo mostra o fluxo de interação do usuário com o sistema de telas. Cada tela será mostrada posteriormente em detalhes no seção de Wireframes. Para acesso ao protótipo interativo clique em link do protótipo. 
 
 ![Exemplo de UserFlow](img/userflow.jpg)
-
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
 
 ## Wireframes
