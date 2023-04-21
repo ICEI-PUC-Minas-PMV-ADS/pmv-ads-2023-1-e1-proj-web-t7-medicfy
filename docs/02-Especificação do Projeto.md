@@ -59,27 +59,22 @@ A seguir serão apresentados os requisitos do projeto de acordo com os feedbacks
 
 | ID | DESCRIÇÃO DO REQUISITO | PRIORIDADE |
 |:---:|---|:---:|
-|**RF01**|O website deve realizar o controle de acesso, solicitando login e senha| ALTA |
-|**RF02**|O website deverá permitir que o usuário se registre caso não possua cadastro no sistema| ALTA |
-|**RF03**|O website deverá permitir que o usuario recupere login e senha caso o tenha perdido| ALTA |
-|**RF04**|O website deverá permitir a alterações de dados cadastrais do usuário |MÉDIA|
-|**RF05**|O sistema deverá validar se o login do usuário contém caracteres alfanuméricos, permitindo apenas letras e números, *hífen "-" ou sublinhado "_"* | ALTA |
-|**RF06**|O sistema deverá validar se a senha do usuário contém no mínimo 6 caracteres no ato do cadastro. | ALTA |
-|**RF07**|O sistema deverá permitir que apenas maiores de 18 anos se cadastre no site, caso seja de menor, o cadastro deverá ser realizado por um responsável. | ALTA |
-|**RF08**|O website deverá permitir o agendamento de exames/consultas para terceiros apenas para menores de 18 anos e dependentes do titular da conta. | MÉDIA |
-|**RF09**|O usuário deverá informar para quem será o atendimento, para si próprio, ou para um de seus dependentes. | ALTA |
-|**RF10**|O cadastro do usuário só será efetivado após informar obrigatóriamente nome completo, data de nascimento, cpf, e-mail, telefone celular e endereço. | ALTA |
-|**RF11**|O site deverá conter campos de preenchimento para escolha do usuário do plano de saúde com o número da carteira, o exame ou consulta, o local, a especialidade/exame, o dia e o horário. | ALTA |
-|**RF12**|O website deverá permitir que o usuário marque e desmarque consultas/exames de forma eficaz com no mínimo 3 horas de antecedência | ALTA |
-|**RF13**|O website deverá permitir que o usuário faça avaliações sobre a experiência no site| MÉDIA |
-|**RF14**|O website deverá enviar comprovante ao e-mail e telefone celular do usuário com data, nome do médico/exame, horário, dcoumentos que deverá portar e telefone de contato na clínica | ALTA |
-|**RF15**|O website deverá informar o histórico de consultas ao usuário| MÉDIA |
-|**RF16**|O website deverá conter principais notícias sobre saúde e bem-estar (sobre exames preventivos, riscos de doenças, etc.) | MÉDIA |
-|**RF17**|O website terá um admnistrador que fará login com usuário e senha | ALTA |
-|**RF18**|A manutenção das especialidades, exames, locais, planos aceitos pelo site será feita pelo administrador | ALTA |
-|**RF19**|O website deverá permitir que o administrador retire um relatório de seus usuários e poderá excluir o usuário que não faz login há mais de 2 anos | MÉDIA |
-|**RF20**|O site deve conter campos de preenchimento para escolha do usuário se o atendimento será particular, SUS, ou pelo plano de saúde | ALTA |
-|**RF21**|Ao declarar uma forma de agendamento particular, o sistema deve enviar uma mensagem contendo os valores dos procedimentos, forma de pagamento, e que o mesmo será realizado durante a prestação do serviço. | ALTA |
+|**RF01**|O website deve realizar o controle de acesso, solicitando login e senha, caso não possua cadastro, permitir que faça o registro, bem como recupere o login e senha caso o tenha perdido.| ALTA |
+|**RF02**|O website deverá permitir a alterações de dados cadastrais do usuário |MÉDIA|
+|**RF03**|O sistema deverá validar se o login do usuário contém no mínimo 6 caracteres alfanuméricos, permitindo apenas letras e números, *hífen "-" ou sublinhado "_"* | ALTA |
+|**RF04**|O sistema deverá permitir que apenas maiores de 18 anos se cadastre no site, caso seja de menor, o cadastro e agendamento deverá ser realizado por um responsável titular da conta.. | ALTA |
+|**RF05**|O usuário deverá informar para quem será o atendimento, para si próprio, ou para um de seus dependentes. | ALTA |
+|**RF06**|O cadastro do usuário só será efetivado após informar obrigatóriamente nome completo, data de nascimento, cpf, e-mail, telefone celular e endereço. | ALTA |
+|**RF07**|O site deverá conter campos de preenchimento para escolha do usuário do plano de saúde com o número da carteira, o exame ou consulta, o local, a especialidade/exame, o dia e o horário. | ALTA |
+|**RF08**|O website deverá permitir que o usuário marque e desmarque consultas/exames de forma eficaz com no mínimo 3 horas de antecedência | ALTA |
+|**RF09**|O website deverá permitir que o usuário faça avaliações sobre a experiência no site| MÉDIA |
+|**RF10**|O website deverá enviar comprovante ao e-mail e telefone celular do usuário com data, nome do médico/exame, horário, dcoumentos que deverá portar e telefone de contato na clínica | ALTA |
+|**RF11**|O website deverá informar o histórico de consultas ao usuário| MÉDIA |
+|**RF12**|O website deverá conter principais notícias sobre saúde e bem-estar (sobre exames preventivos, riscos de doenças, etc.) | MÉDIA |
+|**RF13**|O website terá um admnistrador que fará login com usuário e senha e dará manutenção das especialidades, exames, locais e planos aceitos pelo site. | ALTA |
+|**RF14**|O website deverá permitir que o administrador retire um relatório de seus usuários e poderá excluir o usuário que não faz login há mais de 2 anos | MÉDIA |
+|**RF15**|O site deve conter campos de preenchimento para escolha do usuário se o atendimento será particular, SUS, ou pelo plano de saúde. Ao declarar uma forma de agendamento particular, o sistema deve enviar uma mensagem contendo os valores dos procedimentos, forma de pagamento, e que o mesmo será realizado durante a prestação do serviço. | ALTA |
+
 
 ### Requisitos não Funcionais
 
