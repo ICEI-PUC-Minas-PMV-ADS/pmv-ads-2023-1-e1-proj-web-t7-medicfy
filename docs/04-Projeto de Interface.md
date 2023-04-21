@@ -25,5 +25,16 @@ Nesta seção serão mostradas em detalhes as telas de todo o sistema. A [tela X
 
  ***Figura X - Esboço Padrão***
  
+ 
+ ## HOMEPAGE
+
+Página principal do website onde o usuário poderá acessar mesmo sem efetuar o login e que contará com os seguintes componentes: 
+ - CABEÇALHO: conta os ícones de ENTRAR (caso não tenha sido feito login), perfil para acessar as informações do usuário (informações pessoais, histórico de agendamentos, avaliações, exames agendados), cancelamento de agendamento e sair. 
+ - CONTEÚDO: contém link para acesso as especialidades e exames disponíveis no site, bem como notícias relacionadas a saúde e os ícones para agendar consulta/exame. 
+ - RODAPÉ: Contém informações para contato, sobre a empresa e direitos autorais.
+
+![HOMEPAGE](https://user-images.githubusercontent.com/128761556/233725927-dba7e519-0727-40fd-b515-d77cb4dbe1f2.png)
+
+ 
 
 
