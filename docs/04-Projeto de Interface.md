@@ -5,7 +5,7 @@ Dentre um dos cuidados para a criação do sistema de interface, centramos a ate
 
 ## Fluxo do Usuário
 
-O esquema da figura X abaixo mostra o fluxo de interação do usuário com o sistema de telas. Cada tela será mostrada posteriormente em detalhes no seção de Wireframes. Para acesso ao protótipo interativo clique em link do protótipo. 
+O esquema da [figura X] abaixo mostra o fluxo de interação do usuário com o sistema de telas. Cada tela será mostrada posteriormente em detalhes no seção de Wireframes. Para acesso ao protótipo interativo clique em [link do protótipo]. 
 
 ![Exemplo de UserFlow](img/userflow.jpg)
 
