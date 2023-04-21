@@ -7,20 +7,21 @@ Dentre um dos cuidados para a criação do sistema de interface, centramos a ate
 
 O esquema da [figura X] abaixo mostra o fluxo de interação do usuário com o sistema de telas. Cada tela será mostrada posteriormente em detalhes no seção de Wireframes. Para acesso ao protótipo interativo clique em [link do protótipo]. 
 
-![Exemplo de UserFlow](img/userflow.jpg)
 
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Nesta seção serão mostradas em detalhes as telas de todo o sistema. A [tela X] a seguir é um ESBOÇO PADRÃO das estruturas que irá abranger todas as telas. 
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+- LOGO: representação gráfica da identidade do website.
+- CABEÇALHO: local onde estarão dispostos ícones para navegação principal (menu principal, perfil do usuário, login, logout, cancelamento de agendamento).
+- TÍTULO: título principalda seção.
+- SUBTÍTULO: título segundário da seção principal.
+- CONTEÚDO: apresenta o conteúdo em si. 
+- RODAPÉ: Contém informações para contato, sobre a empresa e direitos autorais.
+
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/128761556/233705827-340e0e42-d014-4685-ab98-17b947ae1905.png"/>
+</div>
+
+
