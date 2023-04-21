@@ -21,7 +21,7 @@ Nesta seção serão mostradas em detalhes as telas de todo o sistema. A [tela X
 - RODAPÉ: Contém informações para contato, sobre a empresa e direitos autorais.
 
 
-![ESBOÇO PADRÃO ](https://user-images.githubusercontent.com/128761556/233705827-340e0e42-d014-4685-ab98-17b947ae1905.png)
+![ESBOÇO PADRÃO 1](https://user-images.githubusercontent.com/128761556/233716310-361fba59-32a2-4e34-ab46-3baf11b23c99.png)
 
  ***Figura X - Esboço Padrão***
  
