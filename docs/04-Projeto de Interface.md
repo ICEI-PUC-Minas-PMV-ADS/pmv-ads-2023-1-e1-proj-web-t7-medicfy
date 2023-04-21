@@ -20,8 +20,10 @@ Nesta seção serão mostradas em detalhes as telas de todo o sistema. A [tela X
 - CONTEÚDO: apresenta o conteúdo em si. 
 - RODAPÉ: Contém informações para contato, sobre a empresa e direitos autorais.
 
-<div align="center">
- <img src="https://user-images.githubusercontent.com/128761556/233705827-340e0e42-d014-4685-ab98-17b947ae1905.png"/>
-</div>
+
+![ESBOÇO PADRÃO ](https://user-images.githubusercontent.com/128761556/233705827-340e0e42-d014-4685-ab98-17b947ae1905.png)
+
+ ***Figura X - Esboço Padrão***
+ 
 
 
