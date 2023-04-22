@@ -67,9 +67,9 @@ O quadro Kanban utilizado pela equipe, foi criado utilizando a plataforma Trello
 
 As ferramentas empregadas no projeto são:
 
-- IDE - A Definir.
+- IDE - Visual Studio e Visual Studio Code.
 - Plataforma Teams para encontros on-line.
-- Ferramentas de desenho de tela (_wireframing_)
+- Ferramentas de desenho de tela: Figma.
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
