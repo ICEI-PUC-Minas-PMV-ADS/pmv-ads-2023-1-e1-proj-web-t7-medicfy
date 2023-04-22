@@ -36,5 +36,5 @@ Página principal do website onde o usuário poderá acessar mesmo sem efetuar o
 ![HOMEPAGE](https://user-images.githubusercontent.com/128761556/233725927-dba7e519-0727-40fd-b515-d77cb4dbe1f2.png)
 
  
-![Fluxograma](/src/medicfy_fluxograma_telas.png)|
+![medicfy_fluxograma_telas](https://user-images.githubusercontent.com/128761321/233751297-92d6b643-3b5d-4e43-84ff-172b63bc2c85.png)
 
