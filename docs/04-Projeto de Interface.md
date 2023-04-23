@@ -72,7 +72,13 @@ Na homepage, onde ficará os conteúdos, o usuário poderá clicar no botão *To
 
 ***********************************************************************************************************************************************************************
 
+### Notícia - Link Externo
+
+A homepage traz notícias sobre saúde e bem estar, caso seja do interesse do usuário, mesmo sem login poderá clicar no link e ele será direcionado a um link externo com a notícia completa.
+
 ![NOTÍCIA LINK EXTERNO](https://user-images.githubusercontent.com/128761321/233817436-2a36d188-0872-4cfe-a425-034641b432d2.png)
+
+***********************************************************************************************************************************************************************
 
 ![AGENDA CONSULTA-EXAME1](https://user-images.githubusercontent.com/128761321/233817414-df4764b9-6686-478e-b268-eb87758a3c46.png)
 ![AGENDA CONSULTA-EXAME1-SUS](https://user-images.githubusercontent.com/128761321/233817417-b050a918-a283-4edb-9596-e669f9e83ba0.png)
