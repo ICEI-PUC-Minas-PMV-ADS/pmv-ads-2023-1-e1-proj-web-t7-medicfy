@@ -10,7 +10,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 Exemplo: 
 
-Os componentes que fazem parte da solução são apresentados na Figura XX.
+Os componentes que fazem parte da solução são apresentados na Figura
 
 ![Diagrama de Componentes](img/arquitetura.png)
 <center>- Arquitetura da Solução</center>
