@@ -129,13 +129,16 @@ Para solicitar agendamento, o usuário já logado, deverá ir a Homepage e clica
 
 ![AGENDA CONSULTA-EXAME1-PARTICULAR](https://user-images.githubusercontent.com/128761321/233817416-a0d08b5d-3200-441b-ab48-65682c44d82a.png)
 
-********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+Após isso, ao clicar em continuar, o usuário será direcionado a página escolhida.
+
+***********************************************************************************************************************************************************************
+
+### Agendamento Consulta
 
 
-![AGENDA CONSULTA-EXAME1](https://user-images.githubusercontent.com/128761321/233817414-df4764b9-6686-478e-b268-eb87758a3c46.png)
-![AGENDA CONSULTA-EXAME1-SUS](https://user-images.githubusercontent.com/128761321/233817417-b050a918-a283-4edb-9596-e669f9e83ba0.png)
-![AGENDA CONSULTA-EXAME1-CONVENIO](https://user-images.githubusercontent.com/128761321/233817415-059804ef-2e39-4758-be8d-1def7ffd8f5a.png)
-![AGENDA CONSULTA-EXAME1-PARTICULAR](https://user-images.githubusercontent.com/128761321/233817416-a0d08b5d-3200-441b-ab48-65682c44d82a.png)
+
+**********************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
 
 ![AGENDA CONSULTA1](https://user-images.githubusercontent.com/128761321/233817412-e8daba43-7c42-448f-b13f-727f2cc200d6.png)
 ![AGENDA CONSULTA2](https://user-images.githubusercontent.com/128761321/233817413-bf9df8a9-6370-459a-93b6-977ac75f1310.png)
