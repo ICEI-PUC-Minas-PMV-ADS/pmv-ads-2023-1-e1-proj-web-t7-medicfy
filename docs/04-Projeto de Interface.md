@@ -96,14 +96,6 @@ Caso seja a primeira vez do usuário, após clicar no link de cadastro ele será
 
 ***********************************************************************************************************************************************************************
 
-### Editar Perfil
-
-O usuário tem a possibilidade de editar todos os seus dados cadastrados e dos dependentes, caso exista, como descrito na tela anterior, exceto o CPF. Ao termino da alteração e clicar em salvar, o usuário será direcionado a página de perfil.
-
-![EDITAR PERFIL](https://user-images.githubusercontent.com/128761321/233817425-f8a1a6d7-afc8-4b7d-83ef-8315005db222.png)
-
-***********************************************************************************************************************************************************************
-
 ### Agendamento
 
 Para solicitar agendamento, o usuário já logado, deverá ir a Homepage e clicar no botão de consulta ou exame. Após isso, será direcionado a tela de agendamento que é comum a exames e consultas. Na página de agendamento, ele deverá demarcar se o atendimento será para o titular ou dependente e a modalidade: SUS, convênio ou particular.
@@ -172,28 +164,83 @@ Aqui o usuário poderá atravésdo box, descrever sua experiencia no site para q
 
 ![PÁGINA AVALIAÇÃO](https://user-images.githubusercontent.com/128761321/233817437-ca8e93dd-7664-4186-9322-db014161f87c.png)
 
-**********************************************************************************************************************************************************************************************************************************************************************************************************************************************
+***********************************************************************************************************************************************************************
 
+### Perfil
 
-
-
-
-
-
-
+Nesta tela serão mostrados todos os dados do usuário inseridos no cadastro. Também aparecerão os botões de editar perfil, o histórico e o cancelamento de agendamento. Ao clicar em um dos botões citados, o usuário será direcionado a página correspondente. Há também a possibilidade de visualizar os agendamentos feitos, clicando no botão de consulta ou exame. 
 
 ![PERFIL1](https://user-images.githubusercontent.com/128761321/233817438-1e76e4c3-28e4-4dac-a9c0-5c16a89e2934.png)
+
+
+- **Perfil Consulta Agendada**
+
 ![PERFIL2](https://user-images.githubusercontent.com/128761321/233817439-405cccb5-18cc-4c2a-8a03-5948586fbf9d.png)
+
+
+- **Perfil Exame Agendado**
+
 ![PERFIL3](https://user-images.githubusercontent.com/128761321/233817440-72af3654-e57b-403f-9944-a93e2ae313b0.png)
+
+
+***********************************************************************************************************************************************************************
+
+### Editar Perfil
+
+O usuário tem a possibilidade de editar todos os seus dados cadastrados e dos dependentes, caso exista, como descrito na tela anterior, exceto o CPF. Ao termino da alteração e clicar em salvar, o usuário será direcionado a página de perfil.
+
+![EDITAR PERFIL](https://user-images.githubusercontent.com/128761321/233817425-f8a1a6d7-afc8-4b7d-83ef-8315005db222.png)
+
+***********************************************************************************************************************************************************************
+
+### Histórico
+
+Nesta tela o usuário poder ver os agendamentos já realizados em ordem cronológica, da mais recente a mais antiga. Basta clicar no botão de consulta ou exame. 
+
 ![HISTÓRICO1](https://user-images.githubusercontent.com/128761321/233817427-c3516f52-d73b-453e-9529-345b0d885602.png)
+
+- **Histórico Consultas**
+
 ![HISTÓRICO2](https://user-images.githubusercontent.com/128761321/233817428-8c6c9f55-e1ed-4635-8305-e7c9dcd93b45.png)
+
+- **Histórico Exames**
+
 ![HISTÓRICO3](https://user-images.githubusercontent.com/128761321/233817430-e9046934-b394-453a-a8fc-8fc87c7f55a0.png)
+
+***********************************************************************************************************************************************************************
+
+### Cancelamento de Agendamento 
+
+Após clicar no botão de cancelamento de agendamento, o usuário será direcionado a essa tela para selecionar o card e cancelar o procedimento. Aparecerão apenas os procedimentos em abertos, pela ordem de data mais próxima. Ao clicar no card, aparecerá uma pop-up perguntando se realmente deseja cancelar e que a ação não poderá ser desfeita. Após confirmar, será direcionado a Homepage.
+
+![CANCELAR AGENDAMENTO1](https://user-images.githubusercontent.com/128761321/233817422-9c559a30-0cd3-42c1-8ac0-199179382e4c.png)
+
+- **Pop-Up Cancelamento**
+
+![CANCELAR AGENDAMENTO2](https://user-images.githubusercontent.com/128761321/233817423-b2c04f67-193d-42fd-b478-d97e735578d3.png)
+
+
+***********************************************************************************************************************************************************************
+***********************************************************************************************************************************************************************
+***********************************************************************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 ![RECUPERAR SENHA1](https://user-images.githubusercontent.com/128761321/233817441-0954c0db-8329-4ec4-8f17-1ec3156601d3.png)
 ![RECUPERAR SENHA2](https://user-images.githubusercontent.com/128761321/233817443-dc75adaa-7d1d-4f26-8fb5-695957d1fb7c.png)
-![CANCELAR AGENDAMENTO1](https://user-images.githubusercontent.com/128761321/233817422-9c559a30-0cd3-42c1-8ac0-199179382e4c.png)
-![CANCELAR AGENDAMENTO2](https://user-images.githubusercontent.com/128761321/233817423-b2c04f67-193d-42fd-b478-d97e735578d3.png)
+
+
 
 
