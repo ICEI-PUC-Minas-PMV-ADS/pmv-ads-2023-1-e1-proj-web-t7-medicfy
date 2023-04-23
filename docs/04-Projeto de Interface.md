@@ -92,7 +92,7 @@ Tela em que o usuário fará a autenticação inserindo seu nome de usuário e s
 
 Caso seja a primeira vez do usuário, após clicar no link de cadastro ele será redirecionado para a tela de cadastro que solicitará os seguintes dados: nome completo, data de nascimento, CPF, gênero, estado civil, celular, email, nome de usuário, senha, endereço com rua/avenida, número/complemento, CEP, bairro, cidade e estado. Caso haja, o usuário poderá adicionar dependentes com nome completo e data de nascimento. Com os dados preenchidos, ao clicar no botão salvar ou cancelar, ele será redirecionado para a tela de login.
 
-![CADASTRO](https://user-images.githubusercontent.com/128761321/233817421-3655f9a6-2bd6-4255-9687-08348315c5a7.png)
+![CADASTRO2](https://user-images.githubusercontent.com/128761321/233863244-2a93a305-01be-4f19-8377-8edce535537b.png)
 
 ***********************************************************************************************************************************************************************
 
@@ -189,7 +189,7 @@ Nesta tela serão mostrados todos os dados do usuário inseridos no cadastro. Ta
 
 O usuário tem a possibilidade de editar todos os seus dados cadastrados e dos dependentes, caso exista, como descrito na tela anterior, exceto o CPF. Ao termino da alteração e clicar em salvar, o usuário será direcionado a página de perfil.
 
-![EDITAR PERFIL](https://user-images.githubusercontent.com/128761321/233817425-f8a1a6d7-afc8-4b7d-83ef-8315005db222.png)
+![EDITAR PERFIL](https://user-images.githubusercontent.com/128761321/233863247-210a215d-1459-4a57-bead-ee1c8eca66bd.png)
 
 ***********************************************************************************************************************************************************************
 
@@ -231,7 +231,7 @@ Após clicar no botão de cancelamento de agendamento, o usuário será direcion
 
 
 
-
+![REDEFINIR SENHA](https://user-images.githubusercontent.com/128761321/233863248-7440d2db-30ef-41b3-b777-2550d63412c1.png)
 
 
 
