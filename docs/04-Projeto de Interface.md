@@ -7,7 +7,7 @@ Dentre um dos cuidados para a criação do sistema de interface, centramos a ate
 
 O esquema da figura abaixo mostra o fluxo de interação do usuário com o sistema de telas. Cada tela será mostrada posteriormente em detalhes no seção de Wireframes. Para acesso ao protótipo interativo clique em <a href="https://www.figma.com/proto/8BoYp5FtRCAKBybbGInc7m/Untitled?node-id=365-2686&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=19%3A54&show-proto-sidebar=1">WIREFRAME INTERATIVO</a> 
 
-![FLUXOGRAMA](https://user-images.githubusercontent.com/128761321/233818242-a500bf6c-5712-4897-8b03-0824ef66ade8.png)
+![ETAPA 2 FLUXOGRAMA TELAS](https://user-images.githubusercontent.com/128761321/233865349-32c757d1-0ed4-46e4-9569-35738f4ad62f.png)
 
 
 
