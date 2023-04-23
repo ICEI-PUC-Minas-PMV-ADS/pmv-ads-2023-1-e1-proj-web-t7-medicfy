@@ -26,7 +26,8 @@ A solução implementada conta com os seguintes módulos:
   - **Tecnologias Utilizadas** - Serão utilizadas na aplicação as seguintes tecnologias: JavaScript, HTML, CSS, Visual Studio Code. 
 
 A imagem a seguir ilustra a o fluxo do usuário em nossa solução.
-(img/diagrama_fluxo.JPG)
+![Diagrama de Componentes](img/diagrama_fluxo.JPG)
+<center> - Diagrama de componentes</center>
 
  A primeira tela do site é a tela inicial que contem notícias da área da saúde, opções de agendamento de consultas e exames, ver especialidades, sobre nós, contato e login no site.
 
