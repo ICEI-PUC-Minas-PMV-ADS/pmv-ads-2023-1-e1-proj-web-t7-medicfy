@@ -84,7 +84,21 @@ A homepage traz notícias sobre saúde e bem estar, caso seja do interesse do us
 
 Tela em que o usuário fará a autenticação inserindo seu nome de usuário e senha nos campos indicados e após isso clicar no botão entrar para efetuar o login. Caso seja a primeira vez do usuário, ele irá clicar no link cadastrar e será redirecionado a outra tela para cadastro. Há também o link para recuperação da senha e do usuário caso os tenha perdido, sendo redirecionado para a tela de recuperação.
  
-![LOGIN](https://user-images.githubusercontent.com/128761321/233817435-81c17659-d700-414d-87a8-3ce2e99c4cdd.png)
+![LOGIN](https://user-images.githubusercontent.com/128761321/233864535-41d86570-3237-40e6-9f50-9d5203a1c358.png)
+
+***********************************************************************************************************************************************************************
+
+### Recuperar Senha
+
+Na página de login, o usuário tem a opção de recuperar sua senha caso tenha esquecido. Ao clicar no link, será redirecionado a tela de recuperação de senha onde será solicitado o email fornecido para envio da nova senha. Após preencher o campo, só clicar em recuperar.  
+
+![RECUPERAR SENHA1](https://user-images.githubusercontent.com/128761321/233817441-0954c0db-8329-4ec4-8f17-1ec3156601d3.png)
+
+- **Pop-Up de Recuperação**
+
+Após informar os dados, aparecerá uma pop-up dizendo que a senha foi enviado ao email. Logo após, basta clicar em voltar a página principal. 
+
+![RECUPERAR SENHA2](https://user-images.githubusercontent.com/128761321/233817443-dc75adaa-7d1d-4f26-8fb5-695957d1fb7c.png)
 
 ***********************************************************************************************************************************************************************
 
@@ -227,26 +241,3 @@ Após clicar no botão de cancelamento de agendamento, o usuário será direcion
 
 
 ***********************************************************************************************************************************************************************
-***********************************************************************************************************************************************************************
-***********************************************************************************************************************************************************************
-
-
-
-
-
-
-
-
-![REDEFINIR SENHA](https://user-images.githubusercontent.com/128761321/233863248-7440d2db-30ef-41b3-b777-2550d63412c1.png)
-
-
-
-
-
-
-![RECUPERAR SENHA1](https://user-images.githubusercontent.com/128761321/233817441-0954c0db-8329-4ec4-8f17-1ec3156601d3.png)
-![RECUPERAR SENHA2](https://user-images.githubusercontent.com/128761321/233817443-dc75adaa-7d1d-4f26-8fb5-695957d1fb7c.png)
-
-
-
-
