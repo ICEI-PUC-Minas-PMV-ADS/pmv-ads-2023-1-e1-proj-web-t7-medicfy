@@ -191,6 +191,12 @@ O usuário tem a possibilidade de editar todos os seus dados cadastrados e dos d
 
 ![EDITAR PERFIL](https://user-images.githubusercontent.com/128761321/233863247-210a215d-1459-4a57-bead-ee1c8eca66bd.png)
 
+- **Editar Senha**
+
+Clicando no ícone redefinir senha, o usuário poderá mudá-la.
+
+![REDEFINIR SENHA](https://user-images.githubusercontent.com/128761321/233863248-7440d2db-30ef-41b3-b777-2550d63412c1.png)
+
 ***********************************************************************************************************************************************************************
 
 ### Histórico
