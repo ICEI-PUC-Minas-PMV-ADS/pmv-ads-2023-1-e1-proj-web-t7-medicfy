@@ -13,21 +13,19 @@ Exemplo:
 Os componentes que fazem parte da solução são apresentados na Figura XX.
 
 ![Diagrama de Componentes](img/arquitetura.png)
-<center>Figura XX - Arquitetura da Solução</center>
+<center>- Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
    - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
      - **Úsuarios** - registro de informações (ID, nome, e-mail, senha, endereço, histórico de agendamentos, e informações adicionais) sobre os usuários cadastrados 
-     - **Comentários** - registro de opiniões dos usuários sobre as notícias
-     - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
- - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
+     - **Comentários** - avaliações deixadas pelos usuarios 
+     - **Preferidas** - site de notícias mantidas para leitura e acesso 
+ 
   - **Tecnologias Utilizadas** - Serão utilizadas na aplicação as seguintes tecnologias: JavaScript, HTML, CSS, Visual Studio Code. 
 
-## Tecnologias Utilizadas
 
-Serão utilizadas na aplicação as seguintes tecnologias: JavaScript, HTML, CSS, Visual Studio Code. 
 
 > **Links Úteis**:
 >
