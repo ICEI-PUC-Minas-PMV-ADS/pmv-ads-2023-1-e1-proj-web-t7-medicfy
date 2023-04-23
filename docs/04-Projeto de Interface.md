@@ -104,7 +104,7 @@ Após informar os dados, aparecerá uma pop-up dizendo que a senha foi enviado a
 
 ### Cadastro
 
-Caso seja a primeira vez do usuário, após clicar no link de cadastro ele será redirecionado para a tela de cadastro que solicitará os seguintes dados: nome completo, data de nascimento, CPF, gênero, estado civil, celular, email, nome de usuário, senha, endereço com rua/avenida, número/complemento, CEP, bairro, cidade e estado. Caso haja, o usuário poderá adicionar dependentes com nome completo e data de nascimento. Com os dados preenchidos, ao clicar no botão salvar ou cancelar, ele será redirecionado para a tela de login.
+Caso seja a primeira vez do usuário, após clicar no link de cadastro ele será redirecionado para a tela de cadastro que solicitará os seguintes dados: nome completo, data de nascimento, CPF, gênero, estado civil, celular, email, nome de usuário, senha, endereço com rua/avenida, número/complemento, CEP, bairro, cidade e estado. Caso haja, o usuário poderá adicionar dependentes com nome completo e data de nascimento. Se desejar, poderá adicionar o plano de saúde (SUS ou outro convênio). Com os dados preenchidos, ao clicar no botão salvar ou cancelar, ele será redirecionado para a tela de login.
 
 ![CADASTRO2](https://user-images.githubusercontent.com/128761321/233863244-2a93a305-01be-4f19-8377-8edce535537b.png)
 
@@ -201,7 +201,7 @@ Nesta tela serão mostrados todos os dados do usuário inseridos no cadastro. Ta
 
 ### Editar Perfil
 
-O usuário tem a possibilidade de editar todos os seus dados cadastrados e dos dependentes, caso exista, como descrito na tela anterior, exceto o CPF. Ao termino da alteração e clicar em salvar, o usuário será direcionado a página de perfil.
+O usuário tem a possibilidade de editar todos os seus dados cadastrados e dos dependentes, caso exista, como descrito na tela anterior, exceto o CPF. Ao término da alteração e clicar em salvar, o usuário será direcionado a página de perfil.
 
 ![EDITAR PERFIL](https://user-images.githubusercontent.com/128761321/233863247-210a215d-1459-4a57-bead-ee1c8eca66bd.png)
 
