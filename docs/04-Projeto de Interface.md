@@ -80,6 +80,35 @@ A homepage traz notícias sobre saúde e bem estar, caso seja do interesse do us
 
 ***********************************************************************************************************************************************************************
 
+### Login
+
+Tela em que o usuário fará a autenticação inserindo seu nome de usuário e senha nos campos indicados e após isso clicar no botão entrar para efetuar o login. Caso seja a primeira vez do usuário, ele irá clicar no link cadastrar e será redirecionado a outra tela para cadastro. Há também o link para recuperação da senha e do usuário caso os tenha perdido, sendo redirecionado para a tela de recuperação.
+ 
+![LOGIN](https://user-images.githubusercontent.com/128761321/233817435-81c17659-d700-414d-87a8-3ce2e99c4cdd.png)
+
+***********************************************************************************************************************************************************************
+
+### Cadastro
+
+Caso seja a primeira vez do usuário, após clicar no link de cadastro ele será redirecionado para a tela de cadastro que solicitará os seguintes dados: nome completo, data de nascimento, CPF, gênero, estado civil, celular, email, nome de usuário, senha, endereço com rua/avenida, número/complemento, CEP, bairro, cidade e estado. Caso haja, o usuário poderá adicionar dependentes com nome completo e data de nascimento. Com os dados preenchidos, ao clicar no botão salvar ou cancelar, ele será redirecionado para a tela de login.
+
+![CADASTRO](https://user-images.githubusercontent.com/128761321/233817421-3655f9a6-2bd6-4255-9687-08348315c5a7.png)
+
+***********************************************************************************************************************************************************************
+
+### Editar Perfil
+
+O usuário tem a possibilidade de editar todos os seus dados cadastrados e dos dependentes, caso exista, como descrito na tela anterior, exceto o CPF. Ao termino da alteração e clicar em salvar, o usuário será direcionado a página de perfil.
+
+![EDITAR PERFIL](https://user-images.githubusercontent.com/128761321/233817425-f8a1a6d7-afc8-4b7d-83ef-8315005db222.png)
+
+***********************************************************************************************************************************************************************
+
+
+
+********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+
 ![AGENDA CONSULTA-EXAME1](https://user-images.githubusercontent.com/128761321/233817414-df4764b9-6686-478e-b268-eb87758a3c46.png)
 ![AGENDA CONSULTA-EXAME1-SUS](https://user-images.githubusercontent.com/128761321/233817417-b050a918-a283-4edb-9596-e669f9e83ba0.png)
 ![AGENDA CONSULTA-EXAME1-CONVENIO](https://user-images.githubusercontent.com/128761321/233817415-059804ef-2e39-4758-be8d-1def7ffd8f5a.png)
@@ -100,10 +129,9 @@ A homepage traz notícias sobre saúde e bem estar, caso seja do interesse do us
 ![HISTÓRICO1](https://user-images.githubusercontent.com/128761321/233817427-c3516f52-d73b-453e-9529-345b0d885602.png)
 ![HISTÓRICO2](https://user-images.githubusercontent.com/128761321/233817428-8c6c9f55-e1ed-4635-8305-e7c9dcd93b45.png)
 ![HISTÓRICO3](https://user-images.githubusercontent.com/128761321/233817430-e9046934-b394-453a-a8fc-8fc87c7f55a0.png)
-![EDITAR PERFIL](https://user-images.githubusercontent.com/128761321/233817425-f8a1a6d7-afc8-4b7d-83ef-8315005db222.png)
 
-![LOGIN](https://user-images.githubusercontent.com/128761321/233817435-81c17659-d700-414d-87a8-3ce2e99c4cdd.png)
-![CADASTRO](https://user-images.githubusercontent.com/128761321/233817421-3655f9a6-2bd6-4255-9687-08348315c5a7.png)
+
+
 ![RECUPERAR SENHA1](https://user-images.githubusercontent.com/128761321/233817441-0954c0db-8329-4ec4-8f17-1ec3156601d3.png)
 ![RECUPERAR SENHA2](https://user-images.githubusercontent.com/128761321/233817443-dc75adaa-7d1d-4f26-8fb5-695957d1fb7c.png)
 ![CANCELAR AGENDAMENTO1](https://user-images.githubusercontent.com/128761321/233817422-9c559a30-0cd3-42c1-8ac0-199179382e4c.png)
