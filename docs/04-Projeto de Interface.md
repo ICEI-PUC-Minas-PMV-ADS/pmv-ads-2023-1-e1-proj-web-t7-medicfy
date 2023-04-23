@@ -13,7 +13,7 @@ O esquema da figura abaixo mostra o fluxo de interação do usuário com o siste
 
 # Wireframes
 
-Nesta seção serão mostradas em detalhes as telas de todo o sistema. A [tela X] a seguir é um ESBOÇO PADRÃO das estruturas que irá abranger todas as telas. 
+Nesta seção serão mostradas em detalhes as telas de todo o sistema. A figura a seguir é um ESBOÇO PADRÃO das estruturas que irá abranger todas as telas. 
 
 - LOGO: representação gráfica da identidade do website.
 - CABEÇALHO: local onde estarão dispostos ícones para navegação principal (menu principal, perfil do usuário, login, logout, cancelamento de agendamento).
@@ -22,11 +22,11 @@ Nesta seção serão mostradas em detalhes as telas de todo o sistema. A [tela X
 - CONTEÚDO: apresenta o conteúdo em si. 
 - RODAPÉ: Contém informações para contato, sobre a empresa e direitos autorais.
 
+### Esoboço Padrão
 
 ![ESBOÇO PADRÃO 1](https://user-images.githubusercontent.com/128761556/233716310-361fba59-32a2-4e34-ab46-3baf11b23c99.png)
 
- ***Figura X - Esboço Padrão***
- 
+ **********************************************************************************************************************************************************************
  
  ### Homepage
 
