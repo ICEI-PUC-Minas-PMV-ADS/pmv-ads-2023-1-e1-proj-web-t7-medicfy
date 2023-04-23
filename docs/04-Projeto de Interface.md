@@ -135,16 +135,22 @@ Após isso, ao clicar em continuar, o usuário será direcionado a página escol
 
 ### Agendamento Consulta
 
-No agendamento de consulta, o usuário deve escolher primeiramente a especialidade desejada, após isso, deve selecionar o local que pretende se consultar. Feito isso, no calendário, o usuário deve escolher uma data e ao lado selecionar o periodo e o horário. Após isso, aparecerá os profissionais disponíveis de acordo com a seleção e ele deverá clicar no card correspondente ao profissional escolhido e por fim em continuar. 
+No agendamento de consulta, o usuário deve escolher primeiramente a especialidade desejada, após isso, deve selecionar o local que pretende se consultar. Feito isso, no calendário, o usuário deve escolher uma data e ao lado selecionar o período e o horário. Após isso, aparecerá os profissionais disponíveis com nome, foto, registro no conselho, especialidade, endereço e valor caso seja consulta particular. Pro fim ele deverá clicar no card correspondente ao profissional escolhido e em continuar. 
 
 ![AGENDA CONSULTA1](https://user-images.githubusercontent.com/128761321/233817412-e8daba43-7c42-448f-b13f-727f2cc200d6.png)
+
+
+### Resumo Agendamento Consulta
+
+Nesta tela será mostrada um resumo da opção escolhida pelo usuário informando especialidade, local com endereço completo, telefone,  data, horário e documentos necessários. Ao final, o usuário deve selecionar se confirma o agendamento ou se pretende cancelar. Se confirmar, será direcionado a tela de confirmação em que poderá clicar no botão para avaliar o site ou ser direcionado a Homepage. 
+
+![AGENDA CONSULTA2](https://user-images.githubusercontent.com/128761321/233817413-bf9df8a9-6370-459a-93b6-977ac75f1310.png)
 
 
 **********************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 
-![AGENDA CONSULTA1](https://user-images.githubusercontent.com/128761321/233817412-e8daba43-7c42-448f-b13f-727f2cc200d6.png)
-![AGENDA CONSULTA2](https://user-images.githubusercontent.com/128761321/233817413-bf9df8a9-6370-459a-93b6-977ac75f1310.png)
+
 
 ![AGENDA EXAME1](https://user-images.githubusercontent.com/128761321/233817418-b0db3144-8fcb-40f8-945f-51e49ac9da0f.png)
 ![AGENDA EXAME2](https://user-images.githubusercontent.com/128761321/233817419-ba3bdef5-0f5c-4ace-9895-a1130bf9ab1c.png)
