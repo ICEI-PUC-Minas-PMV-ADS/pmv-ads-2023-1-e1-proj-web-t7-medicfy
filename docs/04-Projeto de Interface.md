@@ -93,6 +93,8 @@ Tela em que o usuário fará a autenticação inserindo seu nome de usuário e s
 Caso seja a primeira vez do usuário, após clicar no link de cadastro ele será redirecionado para a tela de cadastro que solicitará os seguintes dados: nome completo, data de nascimento, CPF, gênero, estado civil, celular, email, nome de usuário, senha, endereço com rua/avenida, número/complemento, CEP, bairro, cidade e estado. Caso haja, o usuário poderá adicionar dependentes com nome completo e data de nascimento. Com os dados preenchidos, ao clicar no botão salvar ou cancelar, ele será redirecionado para a tela de login.
 
 ![CADASTRO](https://user-images.githubusercontent.com/128761321/233817421-3655f9a6-2bd6-4255-9687-08348315c5a7.png)
+![CADASTRO1](https://user-images.githubusercontent.com/128761321/233858133-224467c7-2c2c-44c2-a8eb-8d263e0e94bc.png)
+![CADASTRO2](https://user-images.githubusercontent.com/128761321/233858136-18b479b7-aa2a-4c36-9493-ea17b953c69a.png)
 
 ***********************************************************************************************************************************************************************
 
