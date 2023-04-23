@@ -104,7 +104,30 @@ O usuário tem a possibilidade de editar todos os seus dados cadastrados e dos d
 
 ***********************************************************************************************************************************************************************
 
+### Agendamento
 
+Para solicitar agendamento, o usuário já logado, deverá ir a Homepage e clicar no botão de consulta ou exame. Após isso, será direcionado a tela de agendamento que é comum a exames e consultas. Na página de agendamento, ele deverá demarcar se o atendimento será para o titular ou dependente e a modalidade: SUS, convênio ou particular.
+
+![AGENDA CONSULTA-EXAME1](https://user-images.githubusercontent.com/128761321/233817414-df4764b9-6686-478e-b268-eb87758a3c46.png)
+
+### Agendamento SUS
+
+- SUS: deverá informar número da carteira.
+
+![AGENDA CONSULTA-EXAME1-SUS](https://user-images.githubusercontent.com/128761321/233817417-b050a918-a283-4edb-9596-e669f9e83ba0.png)
+
+
+### Agendamento Convênio 
+
+- Convênio: deverá informar nome do convênio, plano e número da carteira.
+
+![AGENDA CONSULTA-EXAME1-CONVENIO](https://user-images.githubusercontent.com/128761321/233817415-059804ef-2e39-4758-be8d-1def7ffd8f5a.png)
+
+### Agendamento Particular
+
+- Particular: não deverá informar nenhum dado. Aparecerá um box com instruções. 
+
+![AGENDA CONSULTA-EXAME1-PARTICULAR](https://user-images.githubusercontent.com/128761321/233817416-a0d08b5d-3200-441b-ab48-65682c44d82a.png)
 
 ********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
