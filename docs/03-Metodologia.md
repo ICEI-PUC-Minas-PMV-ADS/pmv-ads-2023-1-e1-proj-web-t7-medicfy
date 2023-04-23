@@ -43,6 +43,7 @@ A equipe está organizada da seguinte maneira:
 - Product Owner : Paulo Vitor Barreto Duarte da Silva
 - Equipe de Desenvolvimento
     * Cassio Tadashi Kawamura
+    * Marcos Vinicius Braga de Souza Santos
 - Equipe de Design
     * Bianca Camila Pereira Reis
 
