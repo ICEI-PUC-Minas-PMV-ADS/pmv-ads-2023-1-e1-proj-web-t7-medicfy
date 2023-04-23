@@ -142,21 +142,45 @@ No agendamento de consulta, o usuário deve escolher primeiramente a especialida
 
 ### Resumo Agendamento Consulta
 
-Nesta tela será mostrada um resumo da opção escolhida pelo usuário informando especialidade, local com endereço completo, telefone,  data, horário e documentos necessários. Ao final, o usuário deve selecionar se confirma o agendamento ou se pretende cancelar. Se confirmar, será direcionado a tela de confirmação em que poderá clicar no botão para avaliar o site ou ser direcionado a Homepage. 
+Nesta tela será mostrada um resumo da opção escolhida pelo usuário informando seu nome completo, a modalidade escolhida, a especialidade, local com endereço completo, telefone,  data, horário e documentos necessários. Ao final, o usuário deve selecionar se confirma o agendamento ou se pretende cancelar. Se confirmar, será direcionado a tela de confirmação em que poderá clicar no botão para avaliar o site ou ser direcionado a Homepage. 
 
 ![AGENDA CONSULTA2](https://user-images.githubusercontent.com/128761321/233817413-bf9df8a9-6370-459a-93b6-977ac75f1310.png)
 
+***********************************************************************************************************************************************************************
+
+### Agendamento Exame
+
+No agendamento de exames, o usuário deve escolher primeiramente o exame que irá realizar, após isso, no calendário, o usuário deve escolher uma data e ao lado selecionar o período e o horário. Logo após, aparecerão os locais disponíveis com nome do estabelecimento, endereço completo, telefone e valores caso seja exame particular. Por fim,  ele deverá clicar no card correspondente ao local escolhido e em continuar. 
+
+![AGENDA EXAME1](https://user-images.githubusercontent.com/128761321/233817418-b0db3144-8fcb-40f8-945f-51e49ac9da0f.png)
+
+### Resumo de Agendamento de Exame
+
+Nesta tela será mostrada um resumo da opção escolhida pelo usuário informando seu nome completo, a modalidade escolhida, o exame agendado, nome e endereço do local, telefone, data e horário e documentos necessários. Ao final, o usuário deve selecionar se confirma o agendamento ou se pretende cancelar. Se confirmar, será direcionado a tela de confirmação em que poderá clicar no botão para avaliar o site ou ser direcionado a Homepage. 
+
+![AGENDA EXAME2](https://user-images.githubusercontent.com/128761321/233817419-ba3bdef5-0f5c-4ace-9895-a1130bf9ab1c.png)
+
+### Confirmação de Agendamento 
+
+![AGENDAMENTO SUCESSO](https://user-images.githubusercontent.com/128761321/233817420-240ae84c-2129-4ce5-815f-eada3b39160f.png)
+
+***********************************************************************************************************************************************************************
+
+### Tela de Avaliação
+
+Aqui o usuário poderá atravésdo box, descrever sua experiencia no site para que os desenvolvedores possam aprimorar o website. 
+
+![PÁGINA AVALIAÇÃO](https://user-images.githubusercontent.com/128761321/233817437-ca8e93dd-7664-4186-9322-db014161f87c.png)
 
 **********************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 
 
 
-![AGENDA EXAME1](https://user-images.githubusercontent.com/128761321/233817418-b0db3144-8fcb-40f8-945f-51e49ac9da0f.png)
-![AGENDA EXAME2](https://user-images.githubusercontent.com/128761321/233817419-ba3bdef5-0f5c-4ace-9895-a1130bf9ab1c.png)
 
-![AGENDAMENTO SUCESSO](https://user-images.githubusercontent.com/128761321/233817420-240ae84c-2129-4ce5-815f-eada3b39160f.png)
-![PÁGINA AVALIAÇÃO](https://user-images.githubusercontent.com/128761321/233817437-ca8e93dd-7664-4186-9322-db014161f87c.png)
+
+
+
 
 ![PERFIL1](https://user-images.githubusercontent.com/128761321/233817438-1e76e4c3-28e4-4dac-a9c0-5c16a89e2934.png)
 ![PERFIL2](https://user-images.githubusercontent.com/128761321/233817439-405cccb5-18cc-4c2a-8a03-5948586fbf9d.png)
