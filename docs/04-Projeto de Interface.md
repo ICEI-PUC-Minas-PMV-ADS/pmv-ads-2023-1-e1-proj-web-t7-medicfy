@@ -96,7 +96,7 @@ Na página de login, o usuário tem a opção de recuperar sua senha caso tenha 
 
 - **Pop-Up de Recuperação**
 
-Após informar os dados, aparecerá uma pop-up dizendo que a senha foi enviado ao email. Logo após, basta clicar em voltar a página principal. 
+Após informar os dados, aparecerá uma pop-up dizendo que a senha foi enviado ao email. Logo após, basta clicar em voltar a página de Login. 
 
 ![RECUPERAR SENHA2](https://user-images.githubusercontent.com/128761321/233817443-dc75adaa-7d1d-4f26-8fb5-695957d1fb7c.png)
 
