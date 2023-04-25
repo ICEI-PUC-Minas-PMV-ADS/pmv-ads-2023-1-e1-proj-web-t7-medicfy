@@ -10,7 +10,6 @@ Desenvolvimento de aplicação que facilite o agendamento/realização de consul
 
 ## Integrantes
 
-* Bianca Camila Pereira Reis
 * Cassio Tadashi Kawamura
 * Marcos Vinicius Braga de Souza Santos
 * Paulo Vitor Barreto Duarte da Silva
