@@ -42,12 +42,11 @@ A equipe está organizada da seguinte maneira:
 - Scrum Master : Marcos Vinicius Braga de Souza Santos
 - Product Owner : Paulo Vitor Barreto Duarte da Silva
 - Equipe de Desenvolvimento
-    * Bianca Camila Pereira Reis
     * Cassio Tadashi Kawamura
     * Marcos Vinicius Braga de Souza Santos
     * Paulo Vitor Barreto Duarte da Silva
 - Equipe de Design
-    * Bianca Camila Pereira Reis
+    * Cassio Tadashi Kawamura
     * Marcos Vinicius Braga de Souza Santos
 
 ### Processo
