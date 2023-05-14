@@ -57,6 +57,38 @@ Páginas que se auto dimensionam atendendo ao atributo de responsividade, possib
 
 ![Responsividade CSS](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/1a59c7f6-7631-4924-b3f6-bb3eba0548d7)
 ********************************************************************************************************************************************
+
+
+**Página de Login**
+
+Possibilita ao paciente que seja feito login no site com o usuário e senhas cadastradas na página de CADASTRO.
+
+![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/126400745/fcd0d2fb-4a4f-49b3-a253-73256d041a24)
+
+**Erro de Login**
+
+![erro-login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/126400745/efdff10d-a26f-4357-93de-de2eae62c9aa)
+
+**Estrutura de dados que impedem o login de usuário não cadastrado**
+
+![login-validação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761556/7e675b42-c1ab-40a3-9a41-f0fc084b6505)
+
+
+**Login Efetuado com Sucesso**
+
+![login-efetuado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/126400745/0cc1363d-2877-4f4a-ab56-b27d9b14d61e)
+
+
+![home-logado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/126400745/3fb5d7d3-afa2-4f5e-aacb-eb02aa6c6b40)
+
+
+
+>**Requisitos Abordados**
+> - RF01 - O website deve realizar o controle de acesso, solicitando login e senha, caso não possua cadastro, permitir que faça o registro, bem como recupere o login e senha caso o tenha perdido.
+
+*****************************************************************************************************************************************
+
+
 **Página de cadastro**
 
 Possibilita ao usuário seu registro de conta para utilização dentro do sistema. Há também dois botões opcionais para adição de dependente e plano de saúde.
