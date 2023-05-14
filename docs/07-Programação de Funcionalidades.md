@@ -40,30 +40,44 @@ Páginas que se auto dimensionam atendendo ao atributo de responsividade, possib
 > - RNF05 - O website deverá ser responsivo, permitindo a vizualização em computadores e dispositivos móveis
 >
 >  **Artefatos da funcionalidade**
-> - pagina_inicial.html (Diretório Github src/pagina_inicial.html)
-> - pagina_inicial.css (Diretório Github src/css/pagina_inicial.css)
+> - pagina_inicial.html
+> - pagina_inicial.css
 
 ![Home noticias](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/b5cbb2b3-ca91-4a49-99c0-c6d42bd0c59d)
+********************************************************************************************************************************************
+**Notícia externa**
+
 ![noticia externa](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/415b9c67-3474-4a2c-aa00-aa00ff8cdbc9)
+********************************************************************************************************************************************
+**Página inicial visualizada em um smartphone**
+
 ![Home responsivo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/98148218-237a-4945-a08d-ab1053d7b857)
+********************************************************************************************************************************************
+**Estrutura de dados da responsividade**
 
 ![Responsividade CSS](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/1a59c7f6-7631-4924-b3f6-bb3eba0548d7)
-
+********************************************************************************************************************************************
 **Página de cadastro**
 
 Possibilita ao usuário seu registro de conta para utilização dentro do sistema. Há também dois botões opcionais para adição de dependente e plano de saúde.
 Foi utilizado o comando "localstorage.setItem" do JSON para armazenamento local das informações do cadastro.
 
 >**Requisitos abordados** 
-> - RF01
-> - RF06
+> - RF01 - O website deve realizar o controle de acesso, solicitando login e senha, caso não possua cadastro, permitir que faça o registro, bem como recupere o login e senha caso o tenha perdido.
+> - RF06 - O cadastro do usuário só será efetivado após informar obrigatóriamente nome completo, data de nascimento, cpf, e-mail, telefone celular e endereço.
 >
 >**Artefatos da funcionalidade**
-> - cadastro.html (Diretório Github src/cadastro.html)
-> - cadastro.css (Diretório Github src/css/cadastro.css)
-> - main.js (Diretório Github src/mais.js)
+> - cadastro.html
+> - cadastro.css
+> - main.js
 
 ![cadastro01](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/3be055c9-5285-49c3-8ad7-f85786a0e4db)
+********************************************************************************************************************************************
+**DevTools aba Aplicativo - Realizando o armazenamento local dos dados**
 ![cadastro02](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/9e74c39c-1c35-4642-a66c-6c8967993e15)
+********************************************************************************************************************************************
+**Estrutura de dados invocando a função**
 ![cadastro HTML](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/3ca981a6-63ba-4609-9126-75e4a5b012e9)
+********************************************************************************************************************************************
+**Estrutura de dados da função**
 ![cadastro JS](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/6cd89df0-84d1-4a8d-8136-f1f7121d2bda)
