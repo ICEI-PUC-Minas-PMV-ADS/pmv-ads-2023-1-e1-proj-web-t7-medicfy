@@ -29,8 +29,8 @@ Páginas responsivas atendendo ao atributo de responsividade, possibilitando a v
 > - RNF05 - O website deverá ser responsivo, permitindo a vizualização em computadores e dispositivos móveis
 >
 >  **Artefatos da funcionalidade**
-> - cadastro.html
-> - cadastro.css
+> - pagina_inicial.html
+> - pagina_inicial.css
 
 ![Home noticias](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/b5cbb2b3-ca91-4a49-99c0-c6d42bd0c59d)
 ![noticia externa](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/415b9c67-3474-4a2c-aa00-aa00ff8cdbc9)
@@ -48,8 +48,8 @@ Foi utilizado o comando "localstorage.setItem" do JSON para armazenamento local 
 > - RF06
 >
 >**Artefatos da funcionalidade**
-> - index.html
-> - style.css
+> - cadastro.html
+> - cadastro.css
 > - mais.js
 
 ![cadastro01](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/3be055c9-5285-49c3-8ad7-f85786a0e4db)
