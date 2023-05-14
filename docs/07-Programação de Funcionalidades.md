@@ -20,7 +20,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 Página inicial do sistema contendo notícias com links externos.
 Todas as páginas do sistema foram propositalmente definidas com largura máxima de 1440 pixels para melhor visualização e distribuição dos elementos da página, melhorando a visualização em qualquer tamanho de tela.
-Páginas responsivas atendendo ao atributo de responsividade, possibilitando a visualização em dispositivos móveis.
+Páginas que se auto dimensionam atendendo ao atributo de responsividade, possibilitando a visualização em dispositivos móveis.
 
 >**Requisitos abordados**
 > - RF12 - O website deverá conter principais notícias sobre saúde e bem-estar (sobre exames preventivos, riscos de doenças, etc.)
@@ -56,4 +56,3 @@ Foi utilizado o comando "localstorage.setItem" do JSON para armazenamento local 
 ![cadastro02](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/9e74c39c-1c35-4642-a66c-6c8967993e15)
 ![cadastro HTML](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/3ca981a6-63ba-4609-9126-75e4a5b012e9)
 ![cadastro JS](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/6cd89df0-84d1-4a8d-8136-f1f7121d2bda)
-
