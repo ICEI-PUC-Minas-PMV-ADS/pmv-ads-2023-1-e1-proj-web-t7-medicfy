@@ -17,11 +17,12 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 Nesta seção apresentamos algumas funcionalidades do sistema. Todos os artefatos necessários para utilização das funcionalidades abaixo estão armazenados na pasta **src** deste projeto.
 
 Instruções de acesso
-1. Baixe os arquivos da pasta scr do Github deste projeto
+1. Baixe o arquivo medicfy.zip armazenado na pasta **src**
 2. Descompacte os arquivos em uma pasta em seu computador
-3. Cria uma pasta chamada **src** e aloque somente os arquivos .png (imagens) dentro dela. Deverá ficar como na estrutura abaixo.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/2b0d9380-afde-48ca-8d6f-5aad46d52bf1)
-4. Abra a primeira pasta no Visual Studio Code e execute as páginas .html pelo Live Server
+
+3. Abra esta pasta no Visual Studio Code e execute as páginas .html pelo Live Server
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/f4c3ea92-a32a-4ac2-9602-71aeef1d1869)
 
