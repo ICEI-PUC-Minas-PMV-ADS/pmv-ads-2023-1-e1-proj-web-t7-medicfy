@@ -16,7 +16,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 Nesta seção apresentamos algumas funcionalidades do sistema. Todos os artefatos necessários para utilização das funcionalidades abaixo estão armazenados na pasta **src** deste projeto.
 
-Instruções de acesso
+**Instruções de acesso**
 1. Baixe o arquivo medicfy.zip armazenado na pasta **src**
 2. Descompacte os arquivos em uma pasta em seu computador
 
