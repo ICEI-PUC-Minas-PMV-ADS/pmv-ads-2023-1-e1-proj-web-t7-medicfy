@@ -50,7 +50,7 @@ Foi utilizado o comando "localstorage.setItem" do JSON para armazenamento local 
 >**Artefatos da funcionalidade**
 > - cadastro.html
 > - cadastro.css
-> - mais.js
+> - main.js
 
 ![cadastro01](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/3be055c9-5285-49c3-8ad7-f85786a0e4db)
 ![cadastro02](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/9e74c39c-1c35-4642-a66c-6c8967993e15)
