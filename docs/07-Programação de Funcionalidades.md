@@ -28,6 +28,7 @@ Nesta seção apresentamos algumas funcionalidades do sistema. Todos os artefato
 
 
 **Página inicial**
+
 Páginas que se auto dimensionam atendendo ao atributo de responsividade, possibilitando a visualização em dispositivos móveis.
 
 >**Requisitos abordados**
