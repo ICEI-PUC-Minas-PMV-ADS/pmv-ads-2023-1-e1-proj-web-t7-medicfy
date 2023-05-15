@@ -1,12 +1,40 @@
 # Template padrão do site
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+Template que será usado no site como exposto na seção 04- PROJETO DE INTERFACE.
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+**TELA DE LOGIN**
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761556/ce3f818b-54ac-48d3-8c30-92b4d90dd433)
+
+*******************************************************************************************************************************************
+
+**TELA DE CADASTRO**
+
+![cadastro01](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/3be055c9-5285-49c3-8ad7-f85786a0e4db)
+
+*******************************************************************************************************************************************
+
+**HOMEPAGE**
+
+![Home noticias](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/b5cbb2b3-ca91-4a49-99c0-c6d42bd0c59d)
+
+*******************************************************************************************************************************************
+
+**AS TELAS LISTADAS ABAIXO ESTÃO EM CONSTRUÇÃO**
+
+
+>- RECUPERAR SENHA
+>- REDEFINIR SENHA
+>- AGENDAMENTO
+>- AGENDAMENTO CONSULTA
+>- AGENDAMENTO EXAMES
+>- AGENDAMENTO RESUMO
+>- CANCELAR AGENDAMENTO
+>- SOBRE NÓS
+>- CONTATO
+>- ESPECIALIDADES E EXAMES
+>- HISTÓRICO
+>- PERFIL
+
+
+
