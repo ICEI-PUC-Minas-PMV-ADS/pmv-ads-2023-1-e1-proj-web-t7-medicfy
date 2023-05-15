@@ -47,16 +47,30 @@ Template que será usado no site como exposto na seção 04- PROJETO DE INTERFAC
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/2b87b2c6-024e-4f52-a057-46e925a4328c)
 
+**Cancelar Agendamento**
+
+<img width="359" alt="cancelar_agendamento" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/129125620/613aa605-a708-4d45-b234-eda762bfb859">
+
+**Cancelar Agendamento - Pop Up**
+
+<img width="946" alt="cancelar-agendamento_popup" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/129125620/7d418049-7ac3-49ff-b8b9-fe738ab92cd5">
+
+**Editar Perfil**
+
+<img width="361" alt="editarperfil" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/129125620/d0fcebf8-fb17-491b-99c1-c8aabf4f8563">
+
+**Editar Perfil - Redefinir Senha**
+
+<img width="359" alt="cancelar_agendamento" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/129125620/a5e313cd-f545-4241-8f43-df0e07115862">
+
 **AS TELAS LISTADAS ABAIXO ESTÃO EM CONSTRUÇÃO**
 
 
 >- RECUPERAR SENHA
->- REDEFINIR SENHA
 >- AGENDAMENTO
 >- AGENDAMENTO CONSULTA
 >- AGENDAMENTO EXAMES
 >- AGENDAMENTO RESUMO
->- CANCELAR AGENDAMENTO
 >- SOBRE NÓS
 >- CONTATO
 >- ESPECIALIDADES E EXAMES
