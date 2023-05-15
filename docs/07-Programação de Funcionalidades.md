@@ -28,9 +28,6 @@ Nesta seção apresentamos algumas funcionalidades do sistema. Todos os artefato
 
 
 **Página inicial**
-
-Página inicial do sistema contendo notícias com links externos.
-Todas as páginas do sistema foram propositalmente definidas com largura máxima de 1440 pixels para melhor visualização e distribuição dos elementos da página, melhorando a visualização em qualquer tamanho de tela.
 Páginas que se auto dimensionam atendendo ao atributo de responsividade, possibilitando a visualização em dispositivos móveis.
 
 >**Requisitos abordados**
