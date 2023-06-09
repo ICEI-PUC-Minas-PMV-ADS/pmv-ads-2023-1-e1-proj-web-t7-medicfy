@@ -8,7 +8,12 @@ Ao clicar em AGENDAR CONSULTA/AGENDAR EXAME o site redireciona o usuário para p
 
 ![ct 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761556/4c9cd2c0-1578-4294-bf0e-7820428125c0) <br /> <br />
 
+Caso os dados fornecidos pelo usuário não estejam no banco de dados, aparece um erro de login. <br>
 
+![login incorreto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761556/521839be-9bb5-4ffd-a4a8-1bf1e053971a) <br /> <br />
+
+
+Se não possuir um cadastro, basta clicar em CADASTRAR ou digitar os dados novamente caso tenha ocorrido algum erro ao inserí-los. <br>
 ![ct1 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761556/35a39e71-ad33-482e-9ee1-e70136494f6c)
 
 
