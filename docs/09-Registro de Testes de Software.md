@@ -28,3 +28,13 @@ Após realizado cadastro, o usuário poderá editar qualquer dado, exceto o CPF 
 
 ![ct editar cadastros 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761556/f1c75271-033e-420a-be4d-d1ee27df6ba0)
 
+
+### CT-03 - Notícias sobre saúde e bem estar
+
+Para acessar as notícias sobre saúde, basta o usuário clicar no link. Não é necessário cadastro para isso. 
+
+
+![teste noticia](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761556/3e3e4ea9-d273-446a-bac5-120fca45e569) <br /> <br />
+
+![teste noticia 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761556/4575a885-b1b9-4436-a714-a81aa7ea6e63)
+
