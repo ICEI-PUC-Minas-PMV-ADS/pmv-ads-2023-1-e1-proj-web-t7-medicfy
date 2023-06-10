@@ -38,6 +38,20 @@ Para acessar as notícias sobre saúde, basta o usuário clicar no link. Não é
 
 ![teste noticia 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761556/4575a885-b1b9-4436-a714-a81aa7ea6e63)
 
+### CT-04 - Cadastro completo
+
+Teste de realizar o cadastro sem preencher os campos obrigatórios
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/5d6cb1e4-c50b-401a-855b-af646f9380ac)
+Campos com "\*" são obrigatórios
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/c0df6e5b-d9ae-4f48-84a9-f67cbbc657df)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/a3cc985a-b8e9-43aa-833e-ebf7f77c1db4)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/8274990e-891f-4527-8af4-e5435473820b)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/0e8c28b6-ef8c-4222-9cb5-9137e13c440e)
+Após preenchimento dos campos obrigatórios, o cadastro é realizado
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/219b577c-2071-43f1-8605-e5adfda397ce)
+
+
+
 ### CT-05 - Agendamento de consultas e exames
 
 Utilizamos a ferramenta do navegador (local storage) para criar um banco de dados temporário com a finalidade de salvar dados e também resgatar dados e apresentar ao usuário.
