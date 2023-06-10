@@ -38,7 +38,7 @@ Para acessar as notícias sobre saúde, basta o usuário clicar no link. Não é
 
 ![teste noticia 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761556/4575a885-b1b9-4436-a714-a81aa7ea6e63)
 
-### CT-000000 - Agendamento de consultas e exames
+### CT-05 - Agendamento de consultas e exames
 
 Utilizamos a ferramenta do navegador (local storage) para criar um banco de dados temporário com a finalidade de salvar dados e também resgatar dados e apresentar ao usuário.
 
