@@ -99,3 +99,15 @@ Teste de agendamento de exames
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/bdc07369-eeb2-4f87-9a16-36961de685f1)
 Na página de perfil, teste do botão "Exames"
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/cb40f28e-9fe2-4060-80fd-05b5239127fe)
+
+
+### CT-06 - ATENDIMENTO
+
+Após ter realizado o login e clicado em AGENDAR EXAME OU AGENDAR CONSULTA a página dá a opção de selecionar para quem será o atendimento.
+
+AGENDANDO COMO TITULAR
+![atendimento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761556/1fe1b814-5db8-4c39-bc0d-246b0d631c05)
+
+AGENDANDO COMO DEPENDENTE 
+
+![atendimento 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761556/edc9a7b0-2913-4bdc-9dcb-b4f6e4172f99)
