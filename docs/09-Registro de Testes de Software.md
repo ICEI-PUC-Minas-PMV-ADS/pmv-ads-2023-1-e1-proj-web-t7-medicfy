@@ -47,8 +47,37 @@ Campos com "\*" são obrigatórios
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/a3cc985a-b8e9-43aa-833e-ebf7f77c1db4)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/8274990e-891f-4527-8af4-e5435473820b)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/0e8c28b6-ef8c-4222-9cb5-9137e13c440e)
-Após preenchimento dos campos obrigatórios, o cadastro é realizado
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/219b577c-2071-43f1-8605-e5adfda397ce)
+Teste de inserir números ou caracteres especiais no campo nome
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/902bbfae-528b-4d88-892e-c30592e5340a)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/e8d5d38a-e349-4182-96e3-b353875fe20a)
+Teste menor de idade <br>
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/64601c62-665d-4cf7-9b02-401b6cf87857) <br>
+Teste inserir somente 10 dígitos no campo CPF <br>
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/edd7068d-6ac4-4a94-ad9f-e98bb0c975f1) <br>
+O campo do CPF foi predefinido para aceitar somente números e exatos 11 dígitos <br>
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/c652a631-48b3-4103-8c83-443a30ae7a56) <br>
+Ao tentar digitar mais de 11 dígitos, o site bloqueia a adição de nova entrada do campo <br>
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/8291d50a-6362-4298-be48-9a483fb7282d) <br>
+Teste de inserir número de celular sem o DDD <br>
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/a42d8e10-ffd1-45a3-8864-a65f3c1ff2bd) <br>
+Ao digitar 31911112222 o campo automaticamente formata os dois primeiros dígitos sendo o DDD <br>
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/a6ccad32-8050-48f3-ad8a-ca90799f4c23) <br>
+No campo de nome de usuário, o site bloqueia automaticamente qualquer valor de entrada de caracteres especiais exceto "\-" e "\_" <br>
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/05e660d7-095d-462f-b761-e6090dc795bc) <br>
+Teste de emails divergentes <br>
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/02eee55d-af1f-4df7-b15e-4e6c4b6b0f6d)
+Teste de senhas idênticas porém somente letras "abcdef"
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/827ff51d-766c-4eb5-b8c0-9a8773a3aa35)
+Teste de senhas que atendem o parâmetro porém são divergentes "abc123" e "abc321"
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/378d1b7a-e7fa-43b3-a32e-124eb15064e8)
+Teste no campo CEP digitando 8 letras <br>
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/6e800dcf-20ab-46a1-bdc5-c58cc96093c5) <br>
+Ao digitar um CEP válido, utilizamos um API de consulta de CEPs, o ViaCEP para preencher automaticamente os campos Rua, Bairro e Cidade automaticamente, restando ao usuário digitar apenas o número e UF
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/6b527796-caaa-4267-8441-7bd2b5a0f3c6)
+Ao digitar um CEP inválido, os campos não são preenchidos
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/401b275f-888a-4736-92c0-7c6e1e7a0875)
+Ao inserir corretamente as informações, o cadastro é realizado
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-medicfy/assets/128761321/b2c125e2-2edb-4ee3-94b6-2ae36b2e6e2e)
 
 
 
