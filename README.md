@@ -12,7 +12,6 @@ Desenvolvimento de aplicação que facilite o agendamento/realização de consul
 
 * Cassio Tadashi Kawamura
 * Marcos Vinicius Braga de Souza Santos
-* Paulo Vitor Barreto Duarte da Silva
 
 ## Orientador(a)
 
